@@ -1,0 +1,1550 @@
+108286    
+Delivered-To: ericgorr@gmail.com
+Received: by 10.100.208.11 with SMTP id f11cs97596ang;
+        Fri, 19 Aug 2011 09:27:09 -0700 (PDT)
+Received: by 10.101.191.31 with SMTP id t31mr2467202anp.59.1313771229383;
+        Fri, 19 Aug 2011 09:27:09 -0700 (PDT)
+Return-Path: <bounces+6814-afe1-ericgorr=gmail.com@email.yipit.com>
+Received: from o1.email.yipit.com (o1.email.yipit.com [74.63.202.36])
+        by mx.google.com with SMTP id g32si4511844anp.3.2011.08.19.09.27.07;
+        Fri, 19 Aug 2011 09:27:08 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces+6814-afe1-ericgorr=gmail.com@email.yipit.com designates 74.63.202.36 as permitted sender) client-ip=74.63.202.36;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of bounces+6814-afe1-ericgorr=gmail.com@email.yipit.com designates 74.63.202.36 as permitted sender) smtp.mail=bounces+6814-afe1-ericgorr=gmail.com@email.yipit.com; dkim=pass header.i=@yipit.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=yipit.com; h=content-type
+	:mime-version:subject:from:to:date:message-id:reply-to; s=
+	smtpapi; bh=tr56MGpFx63gqwfM6N+hlIsfMaM=; b=vw0KFjFrghxHw+PFN0r5
+	KiU08iQSp0rkccJpnMWPsnzgDQSMyY/uPeLbRD21J5OkzdPcxWDrDQuHVw/ONS1d
+	pnYxxuHwxwEA2kb5Hu3whOUdZK2MMkGnJpGmL0pnKtnrmQqTNs9T23Lt4Nm8R5ZE
+	U5rVaF2Rr93cFbii4+HlKnY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=yipit.com; h=content-type
+	:mime-version:subject:from:to:date:message-id:reply-to; q=dns;
+	 s=smtpapi; b=DRLKMi/V3VT1HeVbuI10o+n0SorfPfGIN96kQDRvnyaR70ubmG
+	w+6HzlqW0uHqsAUJMn2cm7xm/bqTAYpRlSvHLeM21WLrw9nZiN3AKgK7zIEuNfa/
+	a6BSzIIfPMLeWNbZatgxcdpRU0yHBpgmh4sD3Kbsl0byEeuiKTHBn/w7I=
+Received: by 10.12.16.52 with SMTP id mf28.26778.4E4E8EDB6
+        Fri, 19 Aug 2011 11:27:07 -0500 (CDT)
+Received: from localhost (unknown [10.9.180.5])
+	by mi9 (SG) with ESMTP id 4e4e8edb.1edc.47721a3
+	for <ericgorr@gmail.com>; Fri, 19 Aug 2011 11:27:07 -0500 (CST)
+Received: from ip-10-76-30-33.ec2.internal (localhost [127.0.0.1])
+	by localhost (Postfix) with ESMTP id D9E2643322
+	for <ericgorr@gmail.com>; Fri, 19 Aug 2011 16:27:06 +0000 (UTC)
+Content-Type: multipart/alternative;
+ boundary="===============1751179884222126394=="
+MIME-Version: 1.0
+Subject: 50% off at Bistro Cacao
+From: Yipit Washington DC <e@yipit.com>
+To: ericgorr@gmail.com
+Date: Fri, 19 Aug 2011 16:27:06 -0000
+Message-ID: <20110819162706.6947.93656@ip-10-76-30-33.ec2.internal>
+Reply-To: Yipit Washington DC <e@yipit.com>
+X-Sendgrid-EID: eMl/AITi1FwBUs068al6jZI4Hn3LoIaD0keBz39K6GGKmuGVoRaJ/u512dasgMteNePoZQ1hnwwgK0y1AW8MHG5PsGeKFn0yYrcqrJhTfr2NgrwBPRp0pXs48ITgwiHrvncKmiNmB5tiZw8Nl1dm3Q==
+
+--===============1751179884222126394==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+Washington DC   August 19, 2011
+
+# We found you that Restaurants deal you were looking for:
+Preferences: http://yipit.com/account/tags/?eid=3D386acdb37ae049ba864ca666b=
+778ca48
+
+## $20 for Romantic French Dining at Bistro Cacao: http://yipit.com/emailer=
+/deal/236830925/
+
+
+
+$20 - 50% Off
+11 hours left to buy
+
+518 purchased
+Negotiated by: OpenTable
+
+Share this deal: https://www.facebook.com/sharer.php?u=3Dhttp://yipit.co/qs=
+VdEM
+
+# Other Washington DC Deals Expiring Soon:
+
+50% Off Computer Tuneup: http://yipit.com/emailer/deal/236830927/
+
+
+Share this deal: https://www.facebook.com/sharer.php?u=3Dhttp://yipit.co/qp=
+IFR6
+$19.95 - 50% Off
+
+6 days left to buy
+
+
+
+Home Services
+
+
+50% Off Three Hour Historical Bus Tour: http://yipit.com/emailer/deal/23683=
+0928/
+
+
+
+
+Share this deal: https://www.facebook.com/sharer.php?u=3Dhttp://yipit.co/ro=
+j9hc
+$42 - 50% Off
+
+2 days left to buy
+
+
+
+53 purchased
+City Tours
+
+
+46% off Eight-Week Spanish-Language Course or One Intensive Spanish-Languag=
+e Workshop: http://yipit.com/emailer/deal/236830929/
+
+
+
+
+Share this deal: https://www.facebook.com/sharer.php?u=3Dhttp://yipit.co/nr=
+XMQP
+$35 - 46% Off
+
+2 days left to buy
+
+
+
+72 purchased
+Life Skills Classes
+
+
+47% off Premium Ticket to Trouble in Mind: http://yipit.com/emailer/deal/23=
+6830932/
+
+
+
+
+Share this deal: https://www.facebook.com/sharer.php?u=3Dhttp://yipit.co/qn=
+vRuN
+$48 - 47% Off
+
+2 days left to buy
+
+
+
+170 purchased
+Theater
+
+
+50% off at Layalina Restaurant: http://yipit.com/emailer/deal/236830935/
+
+
+
+
+Share this deal: https://www.facebook.com/sharer.php?u=3Dhttp://yipit.co/oB=
+XQGg
+$20 - 50% Off
+
+1 day left to buy
+
+
+
+54 purchased
+Restaurants
+
+
+50% off at The Wine Kitchen: http://yipit.com/emailer/deal/236830936/
+
+
+
+
+Share this deal: https://www.facebook.com/sharer.php?u=3Dhttp://yipit.co/qP=
+oFu5
+$15 - 50% Off
+
+11 hours left to buy
+
+
+
+230 purchased
+Restaurants
+
+
+
+## Other Tags: Restaurants, Theater, Life Skills Classes, City Tours
+
+
+Yipit tracks amazing daily deals being struck around Washington DC and send=
+s you the best one each day. You can customize your Yipit email or unsubscr=
+ibe from it altogether by clicking the link below. You can also unsubscribe=
+ by sending a letter to Yipit, 902 Broadway, 4th Floor, New York, NY 10010.
+Unusbscribe: http://yipit.com/account/unsubscribe/?eid=3D386acdb37ae049ba86=
+4ca666b778ca48
+
+--===============1751179884222126394==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=
+=3D"http://www.w3.org/1999/xhtml" lang=3D"en"><head><meta http-equiv=3D"Con=
+tent-Type" content=3D"text/html; charset=3Dutf-8"><title>$20 for Romantic F=
+rench Dining at Bistro Cacao</title><style type=3D"text/css">
+    #outlook a {padding:0;}
+    table td {=20
+        border-collapse:collapse;
+        border-spacing:0;
+    }
+    </style></head><body marginheight=3D"0" marginwidth=3D"0" leftmargin=3D=
+"0" topmargin=3D"0" bgcolor=3D"#cef1fd"><table width=3D"100%" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" bgcolor=3D"#cef1fd"><tr><td backgroun=
+d=3D"http://d22nv2k05ynu7x.cloudfront.net/img/bg-stripes.png" width=3D"626"=
+ height=3D"5" style=3D"font-size:0; line-height:0;"></td></tr><tr><td><tabl=
+e width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td a=
+lign=3D"center"><table width=3D"626" cellpadding=3D"0" cellspacing=3D"0" bo=
+rder=3D"0"><tr><td width=3D"626" height=3D"25" style=3D"line-height:0;"><im=
+g src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"=
+626" height=3D"25" alt=3D"$20 for Romantic French Dining at Bistro Cacao - =
+" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"626" =
+valign=3D"top" align=3D"left"><table width=3D"626" cellpadding=3D"0" cellsp=
+acing=3D"0" border=3D"0"><tr><td width=3D"3" style=3D"font-size:0; line-hei=
+ght:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif=
+" width=3D"3" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td><t=
+d width=3D"201" height=3D"68" style=3D"line-height:0;" valign=3D"top"><a ta=
+rget=3D"_blank" href=3D"http://yipit.com/washington-dc/?eid=3D386acdb37ae04=
+9ba864ca666b778ca48"><img alt=3D"Yipit" src=3D"http://yipit.com/emailer/log=
+o/386acdb37ae049ba864ca666b778ca48/" width=3D"201" height=3D"68" vspace=3D"=
+0" hspace=3D"0" align=3D"left" border=3D"0"></a></td><td width=3D"210" vali=
+gn=3D"top"><table width=3D"210" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr><td width=3D"210" height=3D"18" style=3D"font-size:0; line-heigh=
+t:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" =
+width=3D"1" height=3D"18" vspace=3D"0" hspace=3D"0" align=3D"left"></td></t=
+r><tr><td align=3D"right" style=3D"text-align:right;"><font size=3D"1" face=
+=3D"Verdana, Arial, Helvetica, sans-serif" color=3D"#6fbbe0" style=3D"font-=
+size:12px; line-height:14px;"><strong><font color=3D"#478fb3">Washington DC=
+</font></strong><br>August 19, 2011</font></td></tr></table></td><td width=
+=3D"25" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05y=
+nu7x.cloudfront.net/img/email/none.gif" width=3D"25" height=3D"1" vspace=3D=
+"0" hspace=3D"0" align=3D"left"></td><td width=3D"67" valign=3D"top"><table=
+ width=3D"67" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td widt=
+h=3D"67" height=3D"16" style=3D"font-size:0; line-height:0;"><img src=3D"ht=
+tp://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=
+=3D"16" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D=
+"67" height=3D"35" style=3D"line-height:0;"><a target=3D"_blank" title=3D"I=
+nvite a Friend to Yipit" href=3D"http://yipit.com/invite/?eid=3D386acdb37ae=
+049ba864ca666b778ca48"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img=
+/email/btn-invite.gif" alt=3D"Invite" width=3D"67" height=3D"35" vspace=3D"=
+0" hspace=3D"0" align=3D"left" border=3D"0"></a></td></tr></table></td><td =
+width=3D"14" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv=
+2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"14" height=3D"1" vspa=
+ce=3D"0" hspace=3D"0" align=3D"left"></td><td width=3D"82" valign=3D"top"><=
+table width=3D"82" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td=
+ width=3D"82" height=3D"16" style=3D"font-size:0; line-height:0;"><img src=
+=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" he=
+ight=3D"16" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td widt=
+h=3D"82" height=3D"35" style=3D"line-height:0;"><a title=3D"Sign Up for Yip=
+it" target=3D"_blank" href=3D"http://yipit.com/washington-dc/"><img alt=3D"=
+Sign Up" src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/btn-sign-up.=
+gif" width=3D"82" height=3D"35" vspace=3D"0" hspace=3D"0" align=3D"left" bo=
+rder=3D"0"></a></td></tr></table></td><td width=3D"24" style=3D"font-size:0=
+; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/emai=
+l/none.gif" width=3D"24" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"le=
+ft"></td></tr></table></td></tr><tr><td align=3D"left" width=3D"626" height=
+=3D"18" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05y=
+nu7x.cloudfront.net/img/email/none.gif" width=3D"626" height=3D"18" vspace=
+=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td align=3D"left" width=
+=3D"626" valign=3D"top"><table width=3D"626" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0"><tr><td width=3D"626" height=3D"3" style=3D"font-size:0=
+; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/emai=
+l/shadow-t.gif" width=3D"626" height=3D"3" vspace=3D"0" hspace=3D"0" align=
+=3D"left"></td></tr><tr><td width=3D"626" valign=3D"top"><table width=3D"62=
+6" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"1" bgc=
+olor=3D"#caeefb" style=3D"font-size:0; line-height:0;"><img src=3D"http://d=
+22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"1" v=
+space=3D"0" hspace=3D"0" align=3D"left"></td><td width=3D"1" bgcolor=3D"#c1=
+e8f6" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu=
+7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"1" vspace=3D"0"=
+ hspace=3D"0" align=3D"left"></td><td width=3D"1" bgcolor=3D"#b5dfef" style=
+=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfro=
+nt.net/img/email/none.gif" width=3D"1" height=3D"1" vspace=3D"0" hspace=3D"=
+0" align=3D"left"></td><td width=3D"620" valign=3D"top"><table width=3D"620=
+" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"620" he=
+ight=3D"5" bgcolor=3D"#dff3fd" style=3D"font-size:0; line-height:0;"><img s=
+rc=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" =
+height=3D"5" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td wid=
+th=3D"620" valign=3D"top"><table width=3D"620" cellpadding=3D"0" cellspacin=
+g=3D"0" bgcolor=3D"#ffffff" border=3D"0"><tr><td width=3D"20" style=3D"font=
+-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/i=
+mg/email/none.gif" width=3D"20" height=3D"1" vspace=3D"0" hspace=3D"0" alig=
+n=3D"left"></td><td width=3D"580" valign=3D"top"><table width=3D"580" cellp=
+adding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"580" height=3D=
+"15" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7=
+x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"15" vspace=3D"0"=
+ hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"580"><table width=
+=3D"580" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"=
+496" valign=3D"top"><font size=3D"4" color=3D"#666666" face=3D"'Helvetica N=
+eue',Helvetica, Arial,sans-serif" style=3D"font-size:15px; line-height:20px=
+; letter-spacing:-1px;"><strong>I have a very particular set of Restaurants=
+ Deals</strong></font></td><td width=3D"84" valign=3D"top" style=3D"font-si=
+ze:0; line-height:0;"><table width=3D"84" cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0"><tr><td colspan=3D"3" width=3D"84" height=3D"1" bgcolor=3D"=
+#faebb1" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05=
+ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"1" vspace=3D=
+"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"1" bgcolor=3D"#f=
+aebb1" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05yn=
+u7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"1" vspace=3D"0=
+" hspace=3D"0" align=3D"left"></td><td align=3D"center" width=3D"82" height=
+=3D"28" bgcolor=3D"#fffecc" valign=3D"middle" style=3D"text-align:center;">=
+<font size=3D"1" face=3D"Verdana, Arial, Helvetica, sans-serif" color=3D"#d=
+57d00" style=3D"font-size:11px; line-height:12px;"><a target=3D"_blank" sty=
+le=3D"text-decoration:none; color:#d57d00;" href=3D"http://yipit.com/accoun=
+t/tags/?eid=3D386acdb37ae049ba864ca666b778ca48">Preferences</a></font></td>=
+<td width=3D"1" bgcolor=3D"#faebb1" style=3D"font-size:0; line-height:0;"><=
+img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=
+=3D"1" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr>=
+<td colspan=3D"3" width=3D"84" height=3D"1" bgcolor=3D"#faebb1" style=3D"fo=
+nt-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net=
+/img/email/none.gif" width=3D"1" height=3D"1" vspace=3D"0" hspace=3D"0" ali=
+gn=3D"left"></td></tr></table></td></tr></table></td></tr><tr><td width=3D"=
+580" height=3D"11" style=3D"font-size:0; line-height:0;"><img src=3D"http:/=
+/d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"11=
+" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"580" =
+height=3D"1" bgcolor=3D"#f3f3f3" style=3D"font-size:0; line-height:0;"><img=
+ src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1=
+" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td w=
+idth=3D"580" height=3D"17" style=3D"font-size:0; line-height:0;"><img src=
+=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" he=
+ight=3D"17" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td widt=
+h=3D"580"><font size=3D"4" color=3D"#478fb3" face=3D"Helvetica Neue',Helvet=
+ica, Arial,sans-serif" style=3D"font-size:18px; line-height:20px;font-weigh=
+t:bold;"><font color=3D"#444444"></font><a target=3D"_blank" style=3D"text-=
+decoration:none;color:#478fb3;" href=3D"http://yipit.com/emailer/deal/23683=
+0925/">50% off at Bistro Cacao</a></td></tr><tr style=3D"line-height:4px;">=
+<td width=3D"580"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/emai=
+l/none.gif" width=3D"1px" height=3D"1px" vspace=3D"0" hspace=3D"0" style=3D=
+"display:inline-block;" valign=3D"baseline" /></td></tr><tr><td width=3D"58=
+0"><font size=3D"1" face=3D"Verdana, Arial, Helvetica, sans-serif" color=3D=
+"#999999" style=3D"font-size:11px; line-height:15px;">Bistro Cacao</font></=
+td></tr><tr><td width=3D"580"><font size=3D"1" face=3D"Verdana, Arial, Helv=
+etica, sans-serif" color=3D"#999999" style=3D"font-size:11px; line-height:1=
+5px;">320 Massachusetts Ave NE - Washington D.C.</font></td></tr><tr><td wi=
+dth=3D"580" height=3D"2" style=3D"font-size:0; line-height:0;"><img src=3D"=
+http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=
+=3D"2" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"=
+580" valign=3D"top"><table width=3D"580" cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0"><tr><td width=3D"380" valign=3D"top"><table width=3D"380" ce=
+llpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"380" valign=
+=3D"top"><table width=3D"380" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0"><tr><td colspan=3D"3" width=3D"380" height=3D"1" bgcolor=3D"#e5e5e8" st=
+yle=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloud=
+front.net/img/email/none.gif" width=3D"1" height=3D"1" vspace=3D"0" hspace=
+=3D"0" align=3D"left"></td></tr><tr><td width=3D"1" height=3D"1" bgcolor=3D=
+"#e5e5e8" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k0=
+5ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"1" vspace=
+=3D"0" hspace=3D"0" align=3D"left"></td><td width=3D"378" valign=3D"top"><t=
+able width=3D"378" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td=
+ colspan=3D"3" width=3D"378" height=3D"3" style=3D"font-size:0; line-height=
+:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" w=
+idth=3D"1" height=3D"3" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr>=
+<tr><td colspan=3D"3" width=3D"3" height=3D"3" style=3D"font-size:0; line-h=
+eight:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.g=
+if" width=3D"3" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td>=
+<td width=3D"372" valign=3D"top"><a target=3D"_blank" href=3D"http://yipit.=
+com/emailer/deal/236830925/"><img src=3D"http://d22nv2k05ynu7x.cloudfront.n=
+et/deal_images/deal/20-for-40-of-romantic-french-dining-at-bistro-cacao-1-1=
+313720341_display_image.jpg" width=3D"372" vspace=3D"0" hspace=3D"0" align=
+=3D"left" border=3D"0"></a></td><td colspan=3D"3" width=3D"3" height=3D"3" =
+style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.clo=
+udfront.net/img/email/none.gif" width=3D"3" height=3D"1" vspace=3D"0" hspac=
+e=3D"0" align=3D"left"></td></tr><tr><td colspan=3D"3" width=3D"378" height=
+=3D"3" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05yn=
+u7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"3" vspace=3D"0=
+" hspace=3D"0" align=3D"left"></td></tr></table></td><td width=3D"1" height=
+=3D"1" bgcolor=3D"#e5e5e8" style=3D"font-size:0; line-height:0;"><img src=
+=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" he=
+ight=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td colsp=
+an=3D"3" width=3D"380" height=3D"1" bgcolor=3D"#e5e5e8" style=3D"font-size:=
+0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/ema=
+il/none.gif" width=3D"1" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"le=
+ft"></td></tr></table></td></tr><tr><td width=3D"380" height=3D"7" style=3D=
+"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.=
+net/img/email/none.gif" width=3D"1" height=3D"7" vspace=3D"0" hspace=3D"0" =
+align=3D"left"></td></tr></table></td><td width=3D"20" style=3D"font-size:0=
+; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/emai=
+l/none.gif" width=3D"20" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"le=
+ft"></td><td width=3D"180" valign=3D"top"><table width=3D"180" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"180" height=3D"1" bg=
+color=3D"#f3f3f3" style=3D"font-size:0; line-height:0;"><img src=3D"http://=
+d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"1" =
+vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"180" he=
+ight=3D"7" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k=
+05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"7" vspace=
+=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td><font size=3D"1" face=
+=3D"Verdana, Arial, Helvetica, sans-serif" color=3D"#669900" style=3D"font-=
+size:12px; line-height:14px;"><strong><a target=3D"_blank" style=3D"color:#=
+669900; text-decoration:none;" href=3D"http://yipit.com/emailer/deal/236830=
+925/">$20 (50% off)</a></strong></font></td></tr><tr><td width=3D"180" heig=
+ht=3D"7" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05=
+ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"7" vspace=3D=
+"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"180" height=3D"1=
+" bgcolor=3D"#f3f3f3" style=3D"font-size:0; line-height:0;"><img src=3D"htt=
+p://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D=
+"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"180=
+" height=3D"8" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22=
+nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"8" vsp=
+ace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td><font size=3D"1" fa=
+ce=3D"Verdana, Arial, Helvetica, sans-serif" color=3D"#b04539" style=3D"fon=
+t-size:12px; line-height:14px;"><a target=3D"_blank" style=3D"color:#b04539=
+; text-decoration:none;" href=3D"http://yipit.com/emailer/deal/236830925/">=
+11 hours left to buy</a></font></td></tr><tr><td width=3D"180" height=3D"8"=
+ style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cl=
+oudfront.net/img/email/none.gif" width=3D"1" height=3D"8" vspace=3D"0" hspa=
+ce=3D"0" align=3D"left"></td></tr><tr><td width=3D"180" height=3D"1" bgcolo=
+r=3D"#f3f3f3" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22n=
+v2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"1" vspa=
+ce=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"180" height=
+=3D"7" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05yn=
+u7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"7" vspace=3D"0=
+" hspace=3D"0" align=3D"left"></td></tr><tr><td><font size=3D"1" face=3D"Ve=
+rdana, Arial, Helvetica, sans-serif" color=3D"#333333" style=3D"font-size:1=
+2px; line-height:14px;"><a target=3D"_blank" style=3D"color:#333333; text-d=
+ecoration:none;333333" href=3D"http://yipit.com/emailer/deal/236830925/">51=
+8 purchased</a></font></td></tr><tr><td width=3D"180" height=3D"8" style=3D=
+"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.=
+net/img/email/none.gif" width=3D"1" height=3D"8" vspace=3D"0" hspace=3D"0" =
+align=3D"left"></td></tr><tr><td width=3D"180" height=3D"1" bgcolor=3D"#f3f=
+3f3" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7=
+x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"1" vspace=3D"0" =
+hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"180" height=3D"7" st=
+yle=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloud=
+front.net/img/email/none.gif" width=3D"1" height=3D"7" vspace=3D"0" hspace=
+=3D"0" align=3D"left"></td></tr><tr><td width=3D"180"><table width=3D"180" =
+cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"180"><fon=
+t size=3D"1" face=3D"Verdana, Arial, Helvetica, sans-serif" color=3D"#99999=
+9" style=3D"font-size:12px; line-height:14px;">Negotiated by:</font></td></=
+tr><tr><td width=3D"180" height=3D"7" style=3D"font-size:0; line-height:0;"=
+><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=
+=3D"1" height=3D"7" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr>=
+<td width=3D"180" align=3D"left" style=3D"line-height:0; text-align:left;">=
+<a target=3D"_blank" title=3D"OpenTable" href=3D"http://yipit.com/emailer/d=
+eal/236830925/"><img alt=3D"OpenTable" src=3D"http://d22nv2k05ynu7x.cloudfr=
+ont.net/source/opentable.png" width=3D"100" vspace=3D"0" hspace=3D"0" align=
+=3D"left" border=3D"0"></a></td></tr></table></td></tr><tr><td width=3D"180=
+" height=3D"9" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22=
+nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"9" vsp=
+ace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"180" heigh=
+t=3D"1" bgcolor=3D"#f3f3f3" style=3D"font-size:0; line-height:0;"><img src=
+=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" he=
+ight=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=
+=3D"180" height=3D"10" style=3D"font-size:0; line-height:0;"><img src=3D"ht=
+tp://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=
+=3D"10" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D=
+"180"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td valig=
+n=3D"top"><font size=3D"1" face=3D"Verdana, Arial, Helvetica, sans-serif" c=
+olor=3D"#999999" style=3D"font-size:12px; line-height:14px;">Share:</font><=
+/td><td width=3D"8" style=3D"font-size:0; line-height:0;"><img src=3D"http:=
+//d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"8" height=3D"1=
+" vspace=3D"0" hspace=3D"0" align=3D"left"></td><td valign=3D"top" width=3D=
+"16" style=3D"font-size:0; line-height:0;"><a target=3D"_blank" href=3D"htt=
+ps://www.facebook.com/sharer.php?u=3Dhttp://yipit.co/qsVdEM"><img src=3D"ht=
+tp://d22nv2k05ynu7x.cloudfront.net/img/email/ico-facebook.gif" width=3D"16"=
+ height=3D"16" vspace=3D"0" hspace=3D"0" align=3D"left" border=3D"0"></a></=
+td><td width=3D"10" style=3D"font-size:0; line-height:0;"><img src=3D"http:=
+//d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"10" height=3D"=
+1" vspace=3D"0" hspace=3D"0" align=3D"left"></td><td valign=3D"top" width=
+=3D"16" style=3D"font-size:0; line-height:0;"><a target=3D"_blank" href=3D"=
+http://twitter.com/?status=3DRT%20%40YipitDC%3A%2050%25%20off%20at%20Bistro=
+%20Cacao%3B%20518%20people%20purchased%3B%2011%20hours%20left%3A%20http%3A/=
+/yipit.co/qsVdEM"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/emai=
+l/ico-twitter.gif" width=3D"16" height=3D"16" vspace=3D"0" hspace=3D"0" ali=
+gn=3D"left" border=3D"0"></a></td><td width=3D"10" style=3D"font-size:0; li=
+ne-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/no=
+ne.gif" width=3D"10" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left">=
+</td><td valign=3D"top" width=3D"16" style=3D"font-size:0; line-height:0;">=
+<a target=3D"_blank" href=3D"mailto:?body=3DHere%27s+a+Yipit+Deal+I+think+y=
+ou%27d+like%3A%0A%0A%2420+for+Romantic+French+Dining+at+Bistro+Cacao%0Ahttp=
+%3A%2F%2Fyipit.co%2FqsVdEM%0A&amp;subject=3DCheck+out+this+Yipit+Deal"><img=
+ src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/ico-mail.png" width=
+=3D"16" height=3D"16" vspace=3D"0" hspace=3D"0" align=3D"left" border=3D"0"=
+></a></td></tr></table></td></tr><tr><td width=3D"180" height=3D"8" style=
+=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfro=
+nt.net/img/email/none.gif" width=3D"1" height=3D"8" vspace=3D"0" hspace=3D"=
+0" align=3D"left"></td></tr></table></td></tr></table></td></tr><tr><td wid=
+th=3D"580" height=3D"19" style=3D"font-size:0; line-height:0;"><img src=3D"=
+http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=
+=3D"19" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr></table></td><td=
+ width=3D"20" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22n=
+v2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"20" height=3D"1" vsp=
+ace=3D"0" hspace=3D"0" align=3D"left"></td></tr></table></td></tr></table><=
+/td><td width=3D"1" bgcolor=3D"#b5dfef" style=3D"font-size:0; line-height:0=
+;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" wid=
+th=3D"1" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td><td wid=
+th=3D"1" bgcolor=3D"#c1e8f6" style=3D"font-size:0; line-height:0;"><img src=
+=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" he=
+ight=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td><td width=3D"1" bg=
+color=3D"#caeefb" style=3D"font-size:0; line-height:0;"><img src=3D"http://=
+d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"1" =
+vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr></table></td></tr><tr><t=
+d width=3D"626" height=3D"3" style=3D"font-size:0; line-height:0;"><img src=
+=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/shadow-b.gif" width=3D"6=
+26" height=3D"3" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr></table=
+></td></tr><tr><td width=3D"626" height=3D"14" style=3D"font-size:0; line-h=
+eight:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.g=
+if" width=3D"626" height=3D"14" vspace=3D"0" hspace=3D"0" align=3D"left"></=
+td></tr><tr><td align=3D"left" width=3D"626" valign=3D"top"><table width=3D=
+"626" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"626=
+" height=3D"3" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22=
+nv2k05ynu7x.cloudfront.net/img/email/shadow-t.gif" width=3D"626" height=3D"=
+3" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"626"=
+ valign=3D"top"><table width=3D"626" cellpadding=3D"0" cellspacing=3D"0" bo=
+rder=3D"0"><tr><td width=3D"1" bgcolor=3D"#caeefb" style=3D"font-size:0; li=
+ne-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/no=
+ne.gif" width=3D"1" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"><=
+/td><td width=3D"1" bgcolor=3D"#c1e8f6" style=3D"font-size:0; line-height:0=
+;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" wid=
+th=3D"1" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td><td wid=
+th=3D"1" bgcolor=3D"#b5dfef" style=3D"font-size:0; line-height:0;"><img src=
+=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" he=
+ight=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td><td width=3D"620" =
+valign=3D"top"><table width=3D"620" cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0"><tr><td width=3D"620" height=3D"5" bgcolor=3D"#dff3fd" style=3D"f=
+ont-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.ne=
+t/img/email/none.gif" width=3D"1" height=3D"5" vspace=3D"0" hspace=3D"0" al=
+ign=3D"left"></td></tr><tr><td width=3D"620" valign=3D"top"><table width=3D=
+"620" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ffffff" border=3D"0">=
+<tr><td width=3D"20" style=3D"font-size:0; line-height:0;"><img src=3D"http=
+://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"20" height=3D=
+"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td><td width=3D"580" valign=
+=3D"top"><table width=3D"580" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0"><tr><td width=3D"580" height=3D"15" style=3D"font-size:0; line-height:0=
+;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" wid=
+th=3D"1" height=3D"15" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><=
+tr><td width=3D"580"><table width=3D"580" cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0"><tr><td width=3D"496" valign=3D"top"><font size=3D"4" color=
+=3D"#666666" face=3D"'Helvetica Neue',Helvetica, Arial,sans-serif" style=3D=
+"font-size:15px; line-height:20px; letter-spacing:-1px;"><strong>More Washi=
+ngton DC Deals Expiring Soon</strong></font></td><td width=3D"84" valign=3D=
+"top" style=3D"font-size:0; line-height:0;"><table width=3D"84" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0"><tr><td colspan=3D"3" width=3D"84" he=
+ight=3D"1" bgcolor=3D"#faebb1" style=3D"font-size:0; line-height:0;"><img s=
+rc=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" =
+height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td wid=
+th=3D"1" bgcolor=3D"#faebb1" style=3D"font-size:0; line-height:0;"><img src=
+=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" he=
+ight=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td><td align=3D"cente=
+r" width=3D"82" height=3D"28" bgcolor=3D"#fffecc" valign=3D"middle" style=
+=3D"text-align:center;"><font size=3D"1" face=3D"Verdana, Arial, Helvetica,=
+ sans-serif" color=3D"#d57d00" style=3D"font-size:11px; line-height:12px;">=
+<a target=3D"_blank" style=3D"text-decoration:none; color:#d57d00;" href=3D=
+"http://yipit.com/account/tags/?eid=3D386acdb37ae049ba864ca666b778ca48">Pre=
+ferences</a></font></td><td width=3D"1" bgcolor=3D"#faebb1" style=3D"font-s=
+ize:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img=
+/email/none.gif" width=3D"1" height=3D"1" vspace=3D"0" hspace=3D"0" align=
+=3D"left"></td></tr><tr><td colspan=3D"3" width=3D"84" height=3D"1" bgcolor=
+=3D"#faebb1" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv=
+2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"1" vspac=
+e=3D"0" hspace=3D"0" align=3D"left"></td></tr></table></td></tr></table></t=
+d></tr><tr><td width=3D"580" height=3D"14" style=3D"font-size:0; line-heigh=
+t:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" =
+width=3D"1" height=3D"14" vspace=3D"0" hspace=3D"0" align=3D"left"></td></t=
+r><tr><td width=3D"580" height=3D"1" bgcolor=3D"#f3f3f3" style=3D"font-size=
+:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/em=
+ail/none.gif" width=3D"1" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"l=
+eft"></td></tr><tr><td width=3D"580" height=3D"20" style=3D"font-size:0; li=
+ne-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/no=
+ne.gif" width=3D"1" height=3D"20" vspace=3D"0" hspace=3D"0" align=3D"left">=
+</td></tr><tr><td width=3D"580"><table width=3D"580" cellpadding=3D"0" cell=
+spacing=3D"0" border=3D"0"><td width=3D"15" height=3D"35" bgcolor=3D"#EFF5E=
+5" style=3D"font-size:15px; line-height:20px;"><img src=3D"http://d22nv2k05=
+ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"35" vspace=
+=3D"0" hspace=3D"0" align=3D"left"></td><td width=3D"566" height=3D"35" bgc=
+olor=3D"#EFF5E5" style=3D"font-size:15px; line-height:20px; font-weight: bo=
+ld"><font size=3D"2" color=3D"#666666" face=3D"'Helvetica Neue', Helvetica,=
+ Arial, sans-serif" style=3D"font-size:14px; line-height:17px; font-weight:=
+ bold">Dining &amp; Nightlife</td></table></td></tr><tr><td width=3D"580" h=
+eight=3D"20" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv=
+2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"20" vspa=
+ce=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"580"><table=
+ width=3D"580" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td wid=
+th=3D"150" valign=3D"top"><table width=3D"150" cellpadding=3D"0" cellspacin=
+g=3D"0" border=3D"0"><tr><td width=3D"150" height=3D"1" bgcolor=3D"#e5e5e8"=
+ colspan=3D"3" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22=
+nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"1" vsp=
+ace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"1" height=
+=3D"1" bgcolor=3D"#e5e5e8" style=3D"font-size:0; line-height:0;"><img src=
+=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" he=
+ight=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td><td width=3D"148" =
+valign=3D"top"><table width=3D"148" cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0"><tr><td width=3D"148" height=3D"3" colspan=3D"3" style=3D"font-si=
+ze:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/=
+email/none.gif" width=3D"1" height=3D"3" vspace=3D"0" hspace=3D"0" align=3D=
+"left"></td></tr><tr><td width=3D"3" height=3D"1" style=3D"font-size:0; lin=
+e-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/non=
+e.gif" width=3D"3" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></=
+td><td width=3D"142" valign=3D"top" valign=3D"top"><a target=3D"_blank" hre=
+f=3D"http://yipit.com/emailer/deal/236830935/"><img src=3D"http://d22nv2k05=
+ynu7x.cloudfront.net/deal_images/deal/20-for-labanese-and-syrian-cuisine-at=
+-layalina-restaurant-1313641729_email_thumbnail.jpg" width=3D"142" vspace=
+=3D"0" hspace=3D"0" align=3D"left" border=3D"0"></a></td><td width=3D"3" he=
+ight=3D"1" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k=
+05ynu7x.cloudfront.net/img/email/none.gif" width=3D"3" height=3D"1" vspace=
+=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"148" height=
+=3D"3" colspan=3D"3" style=3D"font-size:0; line-height:0;"><img src=3D"http=
+://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"=
+3" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr></table></td><td widt=
+h=3D"1" height=3D"1" bgcolor=3D"#e5e5e8" style=3D"font-size:0; line-height:=
+0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" wi=
+dth=3D"1" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><=
+tr><td width=3D"150" height=3D"1" bgcolor=3D"#e5e5e8" colspan=3D"3" style=
+=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfro=
+nt.net/img/email/none.gif" width=3D"1" height=3D"1" vspace=3D"0" hspace=3D"=
+0" align=3D"left"></td></tr></table></td><td width=3D"20" style=3D"font-siz=
+e:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/e=
+mail/none.gif" width=3D"20" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D=
+"left"></td><td width=3D"148" valign=3D"top"><table width=3D"148" cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"148" height=3D"5" =
+style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.clo=
+udfront.net/img/email/none.gif" width=3D"1" height=3D"5" vspace=3D"0" hspac=
+e=3D"0" align=3D"left"></td></tr><tr><td><font size=3D"2" color=3D"#478fb3"=
+ face=3D"'Helvetica Neue', Helvetica, Arial, sans-serif" style=3D"font-size=
+:14px; line-height:17px;"><font color=3D"#444444"></font><a target=3D"_blan=
+k" style=3D"color:#478fb3; font-weight:bold;text-decoration:none;" href=3D"=
+http://yipit.com/emailer/deal/236830935/">50% off at Layalina Restaurant</a=
+></font></td></tr><tr><td><font size=3D"1" color=3D"#999999" face=3D"Verdan=
+a, Arial, Helvetica, sans-serif" style=3D"font-size:11px; line-height:14px;=
+">Layalina Restaurant</font></td></tr><tr><td><font size=3D"1" color=3D"#99=
+9999" face=3D"Verdana, Arial, Helvetica, sans-serif" style=3D"font-size:11p=
+x; line-height:14px;">5216 Wilson Blvd - Arlington</font></td></tr><tr><td =
+width=3D"148" height=3D"13" style=3D"font-size:0; line-height:0;"><img src=
+=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" he=
+ight=3D"13" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td widt=
+h=3D"148"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td v=
+align=3D"top"><font size=3D"1" face=3D"Verdana, Arial, Helvetica, sans-seri=
+f" color=3D"#999999" style=3D"font-size:11px; line-height:12px;">Share:</fo=
+nt></td><td width=3D"7" style=3D"font-size:0; line-height:0;"><img src=3D"h=
+ttp://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"7" height=
+=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td><td valign=3D"top" wid=
+th=3D"16" style=3D"font-size:0; line-height:0;"><a target=3D"_blank" href=
+=3D"https://www.facebook.com/sharer.php?u=3Dhttp%3A//yipit.co/oBXQGg"><img =
+src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/ico-facebook.gif" wid=
+th=3D"16" height=3D"16" vspace=3D"0" hspace=3D"0" align=3D"left" border=3D"=
+0"></a></td><td width=3D"10" style=3D"font-size:0; line-height:0;"><img src=
+=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"10" h=
+eight=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td><td valign=3D"top=
+" width=3D"16" style=3D"font-size:0; line-height:0;"><a target=3D"_blank" h=
+ref=3D"http://twitter.com/?status=3DRT%20%40YipitDC%3A%2050%25%20off%20at%2=
+0Layalina%20Restaurant%3B%2054%20people%20purchased%3B%20only%20one%20day%2=
+0left%3A%20http%3A//yipit.co/oBXQGg"><img src=3D"http://d22nv2k05ynu7x.clou=
+dfront.net/img/email/ico-twitter.gif" width=3D"16" height=3D"16" vspace=3D"=
+0" hspace=3D"0" align=3D"left" border=3D"0"></a></td><td width=3D"10" style=
+=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfro=
+nt.net/img/email/none.gif" width=3D"10" height=3D"1" vspace=3D"0" hspace=3D=
+"0" align=3D"left"></td><td valign=3D"top" width=3D"16" style=3D"font-size:=
+0; line-height:0;"><a target=3D"_blank" href=3D"mailto:?subject=3DA%20great=
+%20Yipit%20Deal%20for%20you!&body=3DHere%20is%20a%20Yipit%20Deal%20I%20thou=
+ght%20you%20would%20like.%20Yipit.com%20aggregates%20and%20recommends%20the=
+%20best%20daily%20deals%20in%20your%20city.%0D%0A%0D%0ACheck%20out%20the%20=
+deal%20I%20wanted%20to%20share%20with%20you%20here:%0D%0Ahttp://yipit.com/e=
+mailer/deal/236830935/"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/im=
+g/email/ico-mail.png" width=3D"16" height=3D"16" vspace=3D"0" hspace=3D"0" =
+align=3D"left" border=3D"0"></a></td></tr></table></td></tr></table></td><t=
+d width=3D"7" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22n=
+v2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"7" height=3D"1" vspa=
+ce=3D"0" hspace=3D"0" align=3D"left"></td><td width=3D"160" valign=3D"top">=
+<table width=3D"160" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><=
+td width=3D"160" height=3D"1" bgcolor=3D"#f3f3f3" style=3D"font-size:0; lin=
+e-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/non=
+e.gif" width=3D"1" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></=
+td></tr><tr><td width=3D"160" height=3D"6" style=3D"font-size:0; line-heigh=
+t:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" =
+width=3D"1" height=3D"6" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr=
+><tr><td width=3D"160" align=3D"center" style=3D"text-align:center;"><font =
+size=3D"1" face=3D"Verdana, Arial, Helvetica, sans-serif" color=3D"#669900"=
+ style=3D"font-size:12px; line-height:14px;"><strong><a target=3D"_blank" s=
+tyle=3D"color:#669900; text-decoration:none;" href=3D"http://yipit.com/emai=
+ler/deal/236830935/">$20 (50% off)</a></strong></font></td></tr><tr><td wid=
+th=3D"160" height=3D"8" style=3D"font-size:0; line-height:0;"><img src=3D"h=
+ttp://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=
+=3D"8" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"=
+160" height=3D"1" bgcolor=3D"#f3f3f3" style=3D"font-size:0; line-height:0;"=
+><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=
+=3D"1" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr>=
+<td width=3D"160" height=3D"7" style=3D"font-size:0; line-height:0;"><img s=
+rc=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" =
+height=3D"7" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td wid=
+th=3D"160" align=3D"center" style=3D"text-align:center;"><font size=3D"1" f=
+ace=3D"Verdana, Arial, Helvetica, sans-serif" color=3D"#b04539" style=3D"fo=
+nt-size:12px; line-height:14px;"><a target=3D"_blank" style=3D"color:#b0453=
+9; text-decoration:none;" href=3D"http://yipit.com/emailer/deal/236830935/"=
+>1 day left to buy</a></font></td></tr><tr><td width=3D"160" height=3D"8" s=
+tyle=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.clou=
+dfront.net/img/email/none.gif" width=3D"1" height=3D"8" vspace=3D"0" hspace=
+=3D"0" align=3D"left"></td></tr><tr><td width=3D"160" height=3D"1" bgcolor=
+=3D"#f3f3f3" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv=
+2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"1" vspac=
+e=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"160" height=
+=3D"7" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05yn=
+u7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"7" vspace=3D"0=
+" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"160" align=3D"cent=
+er" style=3D"text-align:center;"><font size=3D"1" face=3D"Verdana, Arial, H=
+elvetica, sans-serif" color=3D"#333333" style=3D"font-size:12px; line-heigh=
+t:14px;"><a target=3D"_blank" style=3D"color:#333333; text-decoration:none;=
+333333" href=3D"http://yipit.com/emailer/deal/236830935/">54 purchased</a><=
+/font></td></tr><tr><td width=3D"160" height=3D"8" style=3D"font-size:0; li=
+ne-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/no=
+ne.gif" width=3D"1" height=3D"8" vspace=3D"0" hspace=3D"0" align=3D"left"><=
+/td></tr><tr><td width=3D"160" height=3D"1" bgcolor=3D"#f3f3f3" style=3D"fo=
+nt-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net=
+/img/email/none.gif" width=3D"1" height=3D"1" vspace=3D"0" hspace=3D"0" ali=
+gn=3D"left"></td></tr></table></td><td width=3D"18" style=3D"font-size:0; l=
+ine-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/n=
+one.gif" width=3D"18" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"=
+></td><td width=3D"77" valign=3D"top"><table width=3D"77" cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0"><tr><td width=3D"77" height=3D"15" style=3D=
+"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.=
+net/img/email/none.gif" width=3D"1" height=3D"15" vspace=3D"0" hspace=3D"0"=
+ align=3D"left"></td></tr><tr><td valign=3D"top" width=3D"77" align=3D"cent=
+er" style=3D"text-align:center;"><font size=3D"1" face=3D"Verdana, Arial, H=
+elvetica, sans-serif" color=3D"#666666" style=3D"font-size:12px; line-heigh=
+t:13px;"><a target=3D"_blank" style=3D"text-decoration:none; color:#666666;=
+" href=3D"http://yipit.com/emailer/deal/236830935/">Restaurants</a></font><=
+/td></tr><tr><td width=3D"77" height=3D"15" style=3D"font-size:0; line-heig=
+ht:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif"=
+ width=3D"1" height=3D"15" vspace=3D"0" hspace=3D"0" align=3D"left"></td></=
+tr><tr><td valign=3D"top" width=3D"77" align=3D"center" style=3D"font-size:=
+0; line-height:0; text-align:center;"><a target=3D"_blank" href=3D"http://y=
+ipit.com/emailer/deal/236830935/"><img src=3D"http://d22nv2k05ynu7x.cloudfr=
+ont.net/source/specialicious.jpg" width=3D"50" vspace=3D"0" hspace=3D"0" bo=
+rder=3D"0"></a></td></tr></table></td></tr></table></td></tr><tr><td width=
+=3D"580" height=3D"26" style=3D"font-size:0; line-height:0;"><img src=3D"ht=
+tp://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=
+=3D"26" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D=
+"580"><table width=3D"580" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+><tr><td width=3D"150" valign=3D"top"><table width=3D"150" cellpadding=3D"0=
+" cellspacing=3D"0" border=3D"0"><tr><td width=3D"150" height=3D"1" bgcolor=
+=3D"#e5e5e8" colspan=3D"3" style=3D"font-size:0; line-height:0;"><img src=
+=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" he=
+ight=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=
+=3D"1" height=3D"1" bgcolor=3D"#e5e5e8" style=3D"font-size:0; line-height:0=
+;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" wid=
+th=3D"1" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td><td wid=
+th=3D"148" valign=3D"top"><table width=3D"148" cellpadding=3D"0" cellspacin=
+g=3D"0" border=3D"0"><tr><td width=3D"148" height=3D"3" colspan=3D"3" style=
+=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfro=
+nt.net/img/email/none.gif" width=3D"1" height=3D"3" vspace=3D"0" hspace=3D"=
+0" align=3D"left"></td></tr><tr><td width=3D"3" height=3D"1" style=3D"font-=
+size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/im=
+g/email/none.gif" width=3D"3" height=3D"1" vspace=3D"0" hspace=3D"0" align=
+=3D"left"></td><td width=3D"142" valign=3D"top" valign=3D"top"><a target=3D=
+"_blank" href=3D"http://yipit.com/emailer/deal/236830936/"><img src=3D"http=
+://d22nv2k05ynu7x.cloudfront.net/deal_images/deal/15-for-modern-american-cu=
+isine-at-the-wine-kitchen-1313555164_email_thumbnail.jpg" width=3D"142" vsp=
+ace=3D"0" hspace=3D"0" align=3D"left" border=3D"0"></a></td><td width=3D"3"=
+ height=3D"1" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22n=
+v2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"3" height=3D"1" vspa=
+ce=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"148" height=
+=3D"3" colspan=3D"3" style=3D"font-size:0; line-height:0;"><img src=3D"http=
+://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"=
+3" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr></table></td><td widt=
+h=3D"1" height=3D"1" bgcolor=3D"#e5e5e8" style=3D"font-size:0; line-height:=
+0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" wi=
+dth=3D"1" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><=
+tr><td width=3D"150" height=3D"1" bgcolor=3D"#e5e5e8" colspan=3D"3" style=
+=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfro=
+nt.net/img/email/none.gif" width=3D"1" height=3D"1" vspace=3D"0" hspace=3D"=
+0" align=3D"left"></td></tr></table></td><td width=3D"20" style=3D"font-siz=
+e:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/e=
+mail/none.gif" width=3D"20" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D=
+"left"></td><td width=3D"148" valign=3D"top"><table width=3D"148" cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"148" height=3D"5" =
+style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.clo=
+udfront.net/img/email/none.gif" width=3D"1" height=3D"5" vspace=3D"0" hspac=
+e=3D"0" align=3D"left"></td></tr><tr><td><font size=3D"2" color=3D"#478fb3"=
+ face=3D"'Helvetica Neue', Helvetica, Arial, sans-serif" style=3D"font-size=
+:14px; line-height:17px;"><font color=3D"#444444"></font><a target=3D"_blan=
+k" style=3D"color:#478fb3; font-weight:bold;text-decoration:none;" href=3D"=
+http://yipit.com/emailer/deal/236830936/">50% off at The Wine Kitchen</a></=
+font></td></tr><tr><td><font size=3D"1" color=3D"#999999" face=3D"Verdana, =
+Arial, Helvetica, sans-serif" style=3D"font-size:11px; line-height:14px;">T=
+he Wine Kitchen</font></td></tr><tr><td><font size=3D"1" color=3D"#999999" =
+face=3D"Verdana, Arial, Helvetica, sans-serif" style=3D"font-size:11px; lin=
+e-height:14px;">7 S King St - Leesburg</font></td></tr><tr><td width=3D"148=
+" height=3D"13" style=3D"font-size:0; line-height:0;"><img src=3D"http://d2=
+2nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"13" v=
+space=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"148"><ta=
+ble cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td valign=3D"top"=
+><font size=3D"1" face=3D"Verdana, Arial, Helvetica, sans-serif" color=3D"#=
+999999" style=3D"font-size:11px; line-height:12px;">Share:</font></td><td w=
+idth=3D"7" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k=
+05ynu7x.cloudfront.net/img/email/none.gif" width=3D"7" height=3D"1" vspace=
+=3D"0" hspace=3D"0" align=3D"left"></td><td valign=3D"top" width=3D"16" sty=
+le=3D"font-size:0; line-height:0;"><a target=3D"_blank" href=3D"https://www=
+.facebook.com/sharer.php?u=3Dhttp%3A//yipit.co/qPoFu5"><img src=3D"http://d=
+22nv2k05ynu7x.cloudfront.net/img/email/ico-facebook.gif" width=3D"16" heigh=
+t=3D"16" vspace=3D"0" hspace=3D"0" align=3D"left" border=3D"0"></a></td><td=
+ width=3D"10" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22n=
+v2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"10" height=3D"1" vsp=
+ace=3D"0" hspace=3D"0" align=3D"left"></td><td valign=3D"top" width=3D"16" =
+style=3D"font-size:0; line-height:0;"><a target=3D"_blank" href=3D"http://t=
+witter.com/?status=3DRT%20%40YipitDC%3A%2050%25%20off%20at%20The%20Wine%20K=
+itchen%3B%20230%20people%20purchased%3B%2011%20hours%20left%3A%20http%3A//y=
+ipit.co/qPoFu5"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/=
+ico-twitter.gif" width=3D"16" height=3D"16" vspace=3D"0" hspace=3D"0" align=
+=3D"left" border=3D"0"></a></td><td width=3D"10" style=3D"font-size:0; line=
+-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none=
+.gif" width=3D"10" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></=
+td><td valign=3D"top" width=3D"16" style=3D"font-size:0; line-height:0;"><a=
+ target=3D"_blank" href=3D"mailto:?subject=3DA%20great%20Yipit%20Deal%20for=
+%20you!&body=3DHere%20is%20a%20Yipit%20Deal%20I%20thought%20you%20would%20l=
+ike.%20Yipit.com%20aggregates%20and%20recommends%20the%20best%20daily%20dea=
+ls%20in%20your%20city.%0D%0A%0D%0ACheck%20out%20the%20deal%20I%20wanted%20t=
+o%20share%20with%20you%20here:%0D%0Ahttp://yipit.com/emailer/deal/236830936=
+/"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/ico-mail.png"=
+ width=3D"16" height=3D"16" vspace=3D"0" hspace=3D"0" align=3D"left" border=
+=3D"0"></a></td></tr></table></td></tr></table></td><td width=3D"7" style=
+=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfro=
+nt.net/img/email/none.gif" width=3D"7" height=3D"1" vspace=3D"0" hspace=3D"=
+0" align=3D"left"></td><td width=3D"160" valign=3D"top"><table width=3D"160=
+" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"160" he=
+ight=3D"1" bgcolor=3D"#f3f3f3" style=3D"font-size:0; line-height:0;"><img s=
+rc=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" =
+height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td wid=
+th=3D"160" height=3D"6" style=3D"font-size:0; line-height:0;"><img src=3D"h=
+ttp://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=
+=3D"6" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"=
+160" align=3D"center" style=3D"text-align:center;"><font size=3D"1" face=3D=
+"Verdana, Arial, Helvetica, sans-serif" color=3D"#669900" style=3D"font-siz=
+e:12px; line-height:14px;"><strong><a target=3D"_blank" style=3D"color:#669=
+900; text-decoration:none;" href=3D"http://yipit.com/emailer/deal/236830936=
+/">$15 (50% off)</a></strong></font></td></tr><tr><td width=3D"160" height=
+=3D"8" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05yn=
+u7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"8" vspace=3D"0=
+" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"160" height=3D"1" =
+bgcolor=3D"#f3f3f3" style=3D"font-size:0; line-height:0;"><img src=3D"http:=
+//d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"1=
+" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"160" =
+height=3D"7" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv=
+2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"7" vspac=
+e=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"160" align=
+=3D"center" style=3D"text-align:center;"><font size=3D"1" face=3D"Verdana, =
+Arial, Helvetica, sans-serif" color=3D"#b04539" style=3D"font-size:12px; li=
+ne-height:14px;"><a target=3D"_blank" style=3D"color:#b04539; text-decorati=
+on:none;" href=3D"http://yipit.com/emailer/deal/236830936/">11 hours left t=
+o buy</a></font></td></tr><tr><td width=3D"160" height=3D"8" style=3D"font-=
+size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/im=
+g/email/none.gif" width=3D"1" height=3D"8" vspace=3D"0" hspace=3D"0" align=
+=3D"left"></td></tr><tr><td width=3D"160" height=3D"1" bgcolor=3D"#f3f3f3" =
+style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.clo=
+udfront.net/img/email/none.gif" width=3D"1" height=3D"1" vspace=3D"0" hspac=
+e=3D"0" align=3D"left"></td></tr><tr><td width=3D"160" height=3D"7" style=
+=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfro=
+nt.net/img/email/none.gif" width=3D"1" height=3D"7" vspace=3D"0" hspace=3D"=
+0" align=3D"left"></td></tr><tr><td width=3D"160" align=3D"center" style=3D=
+"text-align:center;"><font size=3D"1" face=3D"Verdana, Arial, Helvetica, sa=
+ns-serif" color=3D"#333333" style=3D"font-size:12px; line-height:14px;"><a =
+target=3D"_blank" style=3D"color:#333333; text-decoration:none;333333" href=
+=3D"http://yipit.com/emailer/deal/236830936/">230 purchased</a></font></td>=
+</tr><tr><td width=3D"160" height=3D"8" style=3D"font-size:0; line-height:0=
+;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" wid=
+th=3D"1" height=3D"8" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><t=
+r><td width=3D"160" height=3D"1" bgcolor=3D"#f3f3f3" style=3D"font-size:0; =
+line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/=
+none.gif" width=3D"1" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"=
+></td></tr></table></td><td width=3D"18" style=3D"font-size:0; line-height:=
+0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" wi=
+dth=3D"18" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td><td w=
+idth=3D"77" valign=3D"top"><table width=3D"77" cellpadding=3D"0" cellspacin=
+g=3D"0" border=3D"0"><tr><td width=3D"77" height=3D"15" style=3D"font-size:=
+0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/ema=
+il/none.gif" width=3D"1" height=3D"15" vspace=3D"0" hspace=3D"0" align=3D"l=
+eft"></td></tr><tr><td valign=3D"top" width=3D"77" align=3D"center" style=
+=3D"text-align:center;"><font size=3D"1" face=3D"Verdana, Arial, Helvetica,=
+ sans-serif" color=3D"#666666" style=3D"font-size:12px; line-height:13px;">=
+<a target=3D"_blank" style=3D"text-decoration:none; color:#666666;" href=3D=
+"http://yipit.com/emailer/deal/236830936/">Restaurants</a></font></td></tr>=
+<tr><td width=3D"77" height=3D"15" style=3D"font-size:0; line-height:0;"><i=
+mg src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D=
+"1" height=3D"15" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><t=
+d valign=3D"top" width=3D"77" align=3D"center" style=3D"font-size:0; line-h=
+eight:0; text-align:center;"><a target=3D"_blank" href=3D"http://yipit.com/=
+emailer/deal/236830936/"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/s=
+ource/specialicious.jpg" width=3D"50" vspace=3D"0" hspace=3D"0" border=3D"0=
+"></a></td></tr></table></td></tr></table></td></tr><tr><td width=3D"580" h=
+eight=3D"26" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv=
+2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"26" vspa=
+ce=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"580"><table=
+ width=3D"580" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><td width=
+=3D"15" height=3D"35" bgcolor=3D"#EFF5E5" style=3D"font-size:15px; line-hei=
+ght:20px;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.=
+gif" width=3D"1" height=3D"35" vspace=3D"0" hspace=3D"0" align=3D"left"></t=
+d><td width=3D"566" height=3D"35" bgcolor=3D"#EFF5E5" style=3D"font-size:15=
+px; line-height:20px; font-weight: bold"><font size=3D"2" color=3D"#666666"=
+ face=3D"'Helvetica Neue', Helvetica, Arial, sans-serif" style=3D"font-size=
+:14px; line-height:17px; font-weight: bold">Retail &amp; Services</td></tab=
+le></td></tr><tr><td width=3D"580" height=3D"20" style=3D"font-size:0; line=
+-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none=
+.gif" width=3D"1" height=3D"20" vspace=3D"0" hspace=3D"0" align=3D"left"></=
+td></tr><tr><td width=3D"580"><table width=3D"580" cellpadding=3D"0" cellsp=
+acing=3D"0" border=3D"0"><tr><td width=3D"150" valign=3D"top"><table width=
+=3D"150" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"=
+150" height=3D"1" bgcolor=3D"#e5e5e8" colspan=3D"3" style=3D"font-size:0; l=
+ine-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/n=
+one.gif" width=3D"1" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left">=
+</td></tr><tr><td width=3D"1" height=3D"1" bgcolor=3D"#e5e5e8" style=3D"fon=
+t-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/=
+img/email/none.gif" width=3D"1" height=3D"1" vspace=3D"0" hspace=3D"0" alig=
+n=3D"left"></td><td width=3D"148" valign=3D"top"><table width=3D"148" cellp=
+adding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"148" height=3D=
+"3" colspan=3D"3" style=3D"font-size:0; line-height:0;"><img src=3D"http://=
+d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"3" =
+vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"3" heig=
+ht=3D"1" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05=
+ynu7x.cloudfront.net/img/email/none.gif" width=3D"3" height=3D"1" vspace=3D=
+"0" hspace=3D"0" align=3D"left"></td><td width=3D"142" valign=3D"top" valig=
+n=3D"top"><a target=3D"_blank" href=3D"http://yipit.com/emailer/deal/236830=
+927/"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/deal_images/deal/20-=
+for-home-computer-tuneup-from-virtual-tech-50-off-1313742876_email_thumbnai=
+l.jpg" width=3D"142" vspace=3D"0" hspace=3D"0" align=3D"left" border=3D"0">=
+</a></td><td width=3D"3" height=3D"1" style=3D"font-size:0; line-height:0;"=
+><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=
+=3D"3" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr>=
+<td width=3D"148" height=3D"3" colspan=3D"3" style=3D"font-size:0; line-hei=
+ght:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif=
+" width=3D"1" height=3D"3" vspace=3D"0" hspace=3D"0" align=3D"left"></td></=
+tr></table></td><td width=3D"1" height=3D"1" bgcolor=3D"#e5e5e8" style=3D"f=
+ont-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.ne=
+t/img/email/none.gif" width=3D"1" height=3D"1" vspace=3D"0" hspace=3D"0" al=
+ign=3D"left"></td></tr><tr><td width=3D"150" height=3D"1" bgcolor=3D"#e5e5e=
+8" colspan=3D"3" style=3D"font-size:0; line-height:0;"><img src=3D"http://d=
+22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"1" v=
+space=3D"0" hspace=3D"0" align=3D"left"></td></tr></table></td><td width=3D=
+"20" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7=
+x.cloudfront.net/img/email/none.gif" width=3D"20" height=3D"1" vspace=3D"0"=
+ hspace=3D"0" align=3D"left"></td><td width=3D"148" valign=3D"top"><table w=
+idth=3D"148" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=
+=3D"148" height=3D"5" style=3D"font-size:0; line-height:0;"><img src=3D"htt=
+p://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D=
+"5" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td><font size=
+=3D"2" color=3D"#478fb3" face=3D"'Helvetica Neue', Helvetica, Arial, sans-s=
+erif" style=3D"font-size:14px; line-height:17px;"><font color=3D"#444444"><=
+/font><a target=3D"_blank" style=3D"color:#478fb3; font-weight:bold;text-de=
+coration:none;" href=3D"http://yipit.com/emailer/deal/236830927/">50% Off C=
+omputer Tuneup</a></font></td></tr><tr><td><font size=3D"1" color=3D"#99999=
+9" face=3D"Verdana, Arial, Helvetica, sans-serif" style=3D"font-size:11px; =
+line-height:14px;">Virtual Tech </font></td></tr><tr><td width=3D"148" heig=
+ht=3D"13" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k0=
+5ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"13" vspace=
+=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"148"><table c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td valign=3D"top"><fon=
+t size=3D"1" face=3D"Verdana, Arial, Helvetica, sans-serif" color=3D"#99999=
+9" style=3D"font-size:11px; line-height:12px;">Share:</font></td><td width=
+=3D"7" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05yn=
+u7x.cloudfront.net/img/email/none.gif" width=3D"7" height=3D"1" vspace=3D"0=
+" hspace=3D"0" align=3D"left"></td><td valign=3D"top" width=3D"16" style=3D=
+"font-size:0; line-height:0;"><a target=3D"_blank" href=3D"https://www.face=
+book.com/sharer.php?u=3Dhttp%3A//yipit.co/qpIFR6"><img src=3D"http://d22nv2=
+k05ynu7x.cloudfront.net/img/email/ico-facebook.gif" width=3D"16" height=3D"=
+16" vspace=3D"0" hspace=3D"0" align=3D"left" border=3D"0"></a></td><td widt=
+h=3D"10" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05=
+ynu7x.cloudfront.net/img/email/none.gif" width=3D"10" height=3D"1" vspace=
+=3D"0" hspace=3D"0" align=3D"left"></td><td valign=3D"top" width=3D"16" sty=
+le=3D"font-size:0; line-height:0;"><a target=3D"_blank" href=3D"http://twit=
+ter.com/?status=3DRT%20%40YipitDC%3A%2050%25%20Off%20Computer%20Tuneup%3B%2=
+06%20days%20left%3A%20http%3A//yipit.co/qpIFR6"><img src=3D"http://d22nv2k0=
+5ynu7x.cloudfront.net/img/email/ico-twitter.gif" width=3D"16" height=3D"16"=
+ vspace=3D"0" hspace=3D"0" align=3D"left" border=3D"0"></a></td><td width=
+=3D"10" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05y=
+nu7x.cloudfront.net/img/email/none.gif" width=3D"10" height=3D"1" vspace=3D=
+"0" hspace=3D"0" align=3D"left"></td><td valign=3D"top" width=3D"16" style=
+=3D"font-size:0; line-height:0;"><a target=3D"_blank" href=3D"mailto:?subje=
+ct=3DA%20great%20Yipit%20Deal%20for%20you!&body=3DHere%20is%20a%20Yipit%20D=
+eal%20I%20thought%20you%20would%20like.%20Yipit.com%20aggregates%20and%20re=
+commends%20the%20best%20daily%20deals%20in%20your%20city.%0D%0A%0D%0ACheck%=
+20out%20the%20deal%20I%20wanted%20to%20share%20with%20you%20here:%0D%0Ahttp=
+://yipit.com/emailer/deal/236830927/"><img src=3D"http://d22nv2k05ynu7x.clo=
+udfront.net/img/email/ico-mail.png" width=3D"16" height=3D"16" vspace=3D"0"=
+ hspace=3D"0" align=3D"left" border=3D"0"></a></td></tr></table></td></tr><=
+/table></td><td width=3D"7" style=3D"font-size:0; line-height:0;"><img src=
+=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"7" he=
+ight=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td><td width=3D"160" =
+valign=3D"top"><table width=3D"160" cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0"><tr><td width=3D"160" height=3D"1" bgcolor=3D"#f3f3f3" style=3D"f=
+ont-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.ne=
+t/img/email/none.gif" width=3D"1" height=3D"1" vspace=3D"0" hspace=3D"0" al=
+ign=3D"left"></td></tr><tr><td width=3D"160" height=3D"6" style=3D"font-siz=
+e:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/e=
+mail/none.gif" width=3D"1" height=3D"6" vspace=3D"0" hspace=3D"0" align=3D"=
+left"></td></tr><tr><td width=3D"160" align=3D"center" style=3D"text-align:=
+center;"><font size=3D"1" face=3D"Verdana, Arial, Helvetica, sans-serif" co=
+lor=3D"#669900" style=3D"font-size:12px; line-height:14px;"><strong><a targ=
+et=3D"_blank" style=3D"color:#669900; text-decoration:none;" href=3D"http:/=
+/yipit.com/emailer/deal/236830927/">$19.95 (50% off)</a></strong></font></t=
+d></tr><tr><td width=3D"160" height=3D"8" style=3D"font-size:0; line-height=
+:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" w=
+idth=3D"1" height=3D"8" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr>=
+<tr><td width=3D"160" height=3D"1" bgcolor=3D"#f3f3f3" style=3D"font-size:0=
+; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/emai=
+l/none.gif" width=3D"1" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"lef=
+t"></td></tr><tr><td width=3D"160" height=3D"7" style=3D"font-size:0; line-=
+height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.=
+gif" width=3D"1" height=3D"7" vspace=3D"0" hspace=3D"0" align=3D"left"></td=
+></tr><tr><td width=3D"160" align=3D"center" style=3D"text-align:center;"><=
+font size=3D"1" face=3D"Verdana, Arial, Helvetica, sans-serif" color=3D"#b0=
+4539" style=3D"font-size:12px; line-height:14px;"><a target=3D"_blank" styl=
+e=3D"color:#b04539; text-decoration:none;" href=3D"http://yipit.com/emailer=
+/deal/236830927/">6 days left to buy</a></font></td></tr><tr><td width=3D"1=
+60" height=3D"8" style=3D"font-size:0; line-height:0;"><img src=3D"http://d=
+22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"8" v=
+space=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"160" hei=
+ght=3D"1" bgcolor=3D"#f3f3f3" style=3D"font-size:0; line-height:0;"><img sr=
+c=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" h=
+eight=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td widt=
+h=3D"160" height=3D"7" style=3D"font-size:0; line-height:0;"><img src=3D"ht=
+tp://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=
+=3D"7" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr></table></td><td =
+width=3D"18" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv=
+2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"18" height=3D"1" vspa=
+ce=3D"0" hspace=3D"0" align=3D"left"></td><td width=3D"77" valign=3D"top"><=
+table width=3D"77" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td=
+ width=3D"77" height=3D"15" style=3D"font-size:0; line-height:0;"><img src=
+=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" he=
+ight=3D"15" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td vali=
+gn=3D"top" width=3D"77" align=3D"center" style=3D"text-align:center;"><font=
+ size=3D"1" face=3D"Verdana, Arial, Helvetica, sans-serif" color=3D"#666666=
+" style=3D"font-size:12px; line-height:13px;"><a target=3D"_blank" style=3D=
+"text-decoration:none; color:#666666;" href=3D"http://yipit.com/emailer/dea=
+l/236830927/">Home Services</a></font></td></tr><tr><td width=3D"77" height=
+=3D"15" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05y=
+nu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"15" vspace=3D=
+"0" hspace=3D"0" align=3D"left"></td></tr><tr><td valign=3D"top" width=3D"7=
+7" align=3D"center" style=3D"font-size:0; line-height:0; text-align:center;=
+"><a target=3D"_blank" href=3D"http://yipit.com/emailer/deal/236830927/"><i=
+mg src=3D"http://d22nv2k05ynu7x.cloudfront.net/source/certifikid.jpg" width=
+=3D"50" vspace=3D"0" hspace=3D"0" border=3D"0"></a></td></tr></table></td><=
+/tr></table></td></tr><tr><td width=3D"580" height=3D"26" style=3D"font-siz=
+e:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/e=
+mail/none.gif" width=3D"1" height=3D"26" vspace=3D"0" hspace=3D"0" align=3D=
+"left"></td></tr><tr><td width=3D"580"><table width=3D"580" cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0"><td width=3D"15" height=3D"35" bgcolor=3D=
+"#EFF5E5" style=3D"font-size:15px; line-height:20px;"><img src=3D"http://d2=
+2nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"35" v=
+space=3D"0" hspace=3D"0" align=3D"left"></td><td width=3D"566" height=3D"35=
+" bgcolor=3D"#EFF5E5" style=3D"font-size:15px; line-height:20px; font-weigh=
+t: bold"><font size=3D"2" color=3D"#666666" face=3D"'Helvetica Neue', Helve=
+tica, Arial, sans-serif" style=3D"font-size:14px; line-height:17px; font-we=
+ight: bold">Activities &amp; Events</td></table></td></tr><tr><td width=3D"=
+580" height=3D"20" style=3D"font-size:0; line-height:0;"><img src=3D"http:/=
+/d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"20=
+" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"580">=
+<table width=3D"580" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><=
+td width=3D"150" valign=3D"top"><table width=3D"150" cellpadding=3D"0" cell=
+spacing=3D"0" border=3D"0"><tr><td width=3D"150" height=3D"1" bgcolor=3D"#e=
+5e5e8" colspan=3D"3" style=3D"font-size:0; line-height:0;"><img src=3D"http=
+://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"=
+1" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"1" h=
+eight=3D"1" bgcolor=3D"#e5e5e8" style=3D"font-size:0; line-height:0;"><img =
+src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1"=
+ height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td><td width=3D"14=
+8" valign=3D"top"><table width=3D"148" cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0"><tr><td width=3D"148" height=3D"3" colspan=3D"3" style=3D"font=
+-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/i=
+mg/email/none.gif" width=3D"1" height=3D"3" vspace=3D"0" hspace=3D"0" align=
+=3D"left"></td></tr><tr><td width=3D"3" height=3D"1" style=3D"font-size:0; =
+line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/=
+none.gif" width=3D"3" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"=
+></td><td width=3D"142" valign=3D"top" valign=3D"top"><a target=3D"_blank" =
+href=3D"http://yipit.com/emailer/deal/236830928/"><img src=3D"http://d22nv2=
+k05ynu7x.cloudfront.net/deal_images/deal/three-hour-historical-bus-tour-for=
+-two-four-or-six-people-from-chariots-for-hire-tours-1313730221_email_thumb=
+nail.jpg" width=3D"142" vspace=3D"0" hspace=3D"0" align=3D"left" border=3D"=
+0"></a></td><td width=3D"3" height=3D"1" style=3D"font-size:0; line-height:=
+0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" wi=
+dth=3D"3" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><=
+tr><td width=3D"148" height=3D"3" colspan=3D"3" style=3D"font-size:0; line-=
+height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.=
+gif" width=3D"1" height=3D"3" vspace=3D"0" hspace=3D"0" align=3D"left"></td=
+></tr></table></td><td width=3D"1" height=3D"1" bgcolor=3D"#e5e5e8" style=
+=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfro=
+nt.net/img/email/none.gif" width=3D"1" height=3D"1" vspace=3D"0" hspace=3D"=
+0" align=3D"left"></td></tr><tr><td width=3D"150" height=3D"1" bgcolor=3D"#=
+e5e5e8" colspan=3D"3" style=3D"font-size:0; line-height:0;"><img src=3D"htt=
+p://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D=
+"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr></table></td><td wid=
+th=3D"20" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k0=
+5ynu7x.cloudfront.net/img/email/none.gif" width=3D"20" height=3D"1" vspace=
+=3D"0" hspace=3D"0" align=3D"left"></td><td width=3D"148" valign=3D"top"><t=
+able width=3D"148" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td=
+ width=3D"148" height=3D"5" style=3D"font-size:0; line-height:0;"><img src=
+=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" he=
+ight=3D"5" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td><font=
+ size=3D"2" color=3D"#478fb3" face=3D"'Helvetica Neue', Helvetica, Arial, s=
+ans-serif" style=3D"font-size:14px; line-height:17px;"><font color=3D"#4444=
+44"></font><a target=3D"_blank" style=3D"color:#478fb3; font-weight:bold;te=
+xt-decoration:none;" href=3D"http://yipit.com/emailer/deal/236830928/">50% =
+Off Three Hour Historical Bus Tour</a></font></td></tr><tr><td><font size=
+=3D"1" color=3D"#999999" face=3D"Verdana, Arial, Helvetica, sans-serif" sty=
+le=3D"font-size:11px; line-height:14px;">Chariots for Hire Tours</font></td=
+></tr><tr><td><font size=3D"1" color=3D"#999999" face=3D"Verdana, Arial, He=
+lvetica, sans-serif" style=3D"font-size:11px; line-height:14px;">1100 Penns=
+ylvania Ave NW - Washington D.C.</font></td></tr><tr><td width=3D"148" heig=
+ht=3D"13" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k0=
+5ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"13" vspace=
+=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"148"><table c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td valign=3D"top"><fon=
+t size=3D"1" face=3D"Verdana, Arial, Helvetica, sans-serif" color=3D"#99999=
+9" style=3D"font-size:11px; line-height:12px;">Share:</font></td><td width=
+=3D"7" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05yn=
+u7x.cloudfront.net/img/email/none.gif" width=3D"7" height=3D"1" vspace=3D"0=
+" hspace=3D"0" align=3D"left"></td><td valign=3D"top" width=3D"16" style=3D=
+"font-size:0; line-height:0;"><a target=3D"_blank" href=3D"https://www.face=
+book.com/sharer.php?u=3Dhttp%3A//yipit.co/roj9hc"><img src=3D"http://d22nv2=
+k05ynu7x.cloudfront.net/img/email/ico-facebook.gif" width=3D"16" height=3D"=
+16" vspace=3D"0" hspace=3D"0" align=3D"left" border=3D"0"></a></td><td widt=
+h=3D"10" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05=
+ynu7x.cloudfront.net/img/email/none.gif" width=3D"10" height=3D"1" vspace=
+=3D"0" hspace=3D"0" align=3D"left"></td><td valign=3D"top" width=3D"16" sty=
+le=3D"font-size:0; line-height:0;"><a target=3D"_blank" href=3D"http://twit=
+ter.com/?status=3DRT%20%40YipitDC%3A%2050%25%20Off%20Three%20Hour%20Histori=
+cal%20Bus%20Tour%3B%2053%20people%20purchased%3B%202%20days%20left%3A%20htt=
+p%3A//yipit.co/roj9hc"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img=
+/email/ico-twitter.gif" width=3D"16" height=3D"16" vspace=3D"0" hspace=3D"0=
+" align=3D"left" border=3D"0"></a></td><td width=3D"10" style=3D"font-size:=
+0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/ema=
+il/none.gif" width=3D"10" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"l=
+eft"></td><td valign=3D"top" width=3D"16" style=3D"font-size:0; line-height=
+:0;"><a target=3D"_blank" href=3D"mailto:?subject=3DA%20great%20Yipit%20Dea=
+l%20for%20you!&body=3DHere%20is%20a%20Yipit%20Deal%20I%20thought%20you%20wo=
+uld%20like.%20Yipit.com%20aggregates%20and%20recommends%20the%20best%20dail=
+y%20deals%20in%20your%20city.%0D%0A%0D%0ACheck%20out%20the%20deal%20I%20wan=
+ted%20to%20share%20with%20you%20here:%0D%0Ahttp://yipit.com/emailer/deal/23=
+6830928/"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/ico-ma=
+il.png" width=3D"16" height=3D"16" vspace=3D"0" hspace=3D"0" align=3D"left"=
+ border=3D"0"></a></td></tr></table></td></tr></table></td><td width=3D"7" =
+style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.clo=
+udfront.net/img/email/none.gif" width=3D"7" height=3D"1" vspace=3D"0" hspac=
+e=3D"0" align=3D"left"></td><td width=3D"160" valign=3D"top"><table width=
+=3D"160" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"=
+160" height=3D"1" bgcolor=3D"#f3f3f3" style=3D"font-size:0; line-height:0;"=
+><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=
+=3D"1" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr>=
+<td width=3D"160" height=3D"6" style=3D"font-size:0; line-height:0;"><img s=
+rc=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" =
+height=3D"6" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td wid=
+th=3D"160" align=3D"center" style=3D"text-align:center;"><font size=3D"1" f=
+ace=3D"Verdana, Arial, Helvetica, sans-serif" color=3D"#669900" style=3D"fo=
+nt-size:12px; line-height:14px;"><strong><a target=3D"_blank" style=3D"colo=
+r:#669900; text-decoration:none;" href=3D"http://yipit.com/emailer/deal/236=
+830928/">$42 (50% off)</a></strong></font></td></tr><tr><td width=3D"160" h=
+eight=3D"8" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2=
+k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"8" vspace=
+=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"160" height=
+=3D"1" bgcolor=3D"#f3f3f3" style=3D"font-size:0; line-height:0;"><img src=
+=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" he=
+ight=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=
+=3D"160" height=3D"7" style=3D"font-size:0; line-height:0;"><img src=3D"htt=
+p://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D=
+"7" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"160=
+" align=3D"center" style=3D"text-align:center;"><font size=3D"1" face=3D"Ve=
+rdana, Arial, Helvetica, sans-serif" color=3D"#b04539" style=3D"font-size:1=
+2px; line-height:14px;"><a target=3D"_blank" style=3D"color:#b04539; text-d=
+ecoration:none;" href=3D"http://yipit.com/emailer/deal/236830928/">2 days l=
+eft to buy</a></font></td></tr><tr><td width=3D"160" height=3D"8" style=3D"=
+font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.n=
+et/img/email/none.gif" width=3D"1" height=3D"8" vspace=3D"0" hspace=3D"0" a=
+lign=3D"left"></td></tr><tr><td width=3D"160" height=3D"1" bgcolor=3D"#f3f3=
+f3" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x=
+.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"1" vspace=3D"0" h=
+space=3D"0" align=3D"left"></td></tr><tr><td width=3D"160" height=3D"7" sty=
+le=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudf=
+ront.net/img/email/none.gif" width=3D"1" height=3D"7" vspace=3D"0" hspace=
+=3D"0" align=3D"left"></td></tr><tr><td width=3D"160" align=3D"center" styl=
+e=3D"text-align:center;"><font size=3D"1" face=3D"Verdana, Arial, Helvetica=
+, sans-serif" color=3D"#333333" style=3D"font-size:12px; line-height:14px;"=
+><a target=3D"_blank" style=3D"color:#333333; text-decoration:none;333333" =
+href=3D"http://yipit.com/emailer/deal/236830928/">53 purchased</a></font></=
+td></tr><tr><td width=3D"160" height=3D"8" style=3D"font-size:0; line-heigh=
+t:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" =
+width=3D"1" height=3D"8" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr=
+><tr><td width=3D"160" height=3D"1" bgcolor=3D"#f3f3f3" style=3D"font-size:=
+0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/ema=
+il/none.gif" width=3D"1" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"le=
+ft"></td></tr></table></td><td width=3D"18" style=3D"font-size:0; line-heig=
+ht:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif"=
+ width=3D"18" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td><t=
+d width=3D"77" valign=3D"top"><table width=3D"77" cellpadding=3D"0" cellspa=
+cing=3D"0" border=3D"0"><tr><td width=3D"77" height=3D"15" style=3D"font-si=
+ze:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/=
+email/none.gif" width=3D"1" height=3D"15" vspace=3D"0" hspace=3D"0" align=
+=3D"left"></td></tr><tr><td valign=3D"top" width=3D"77" align=3D"center" st=
+yle=3D"text-align:center;"><font size=3D"1" face=3D"Verdana, Arial, Helveti=
+ca, sans-serif" color=3D"#666666" style=3D"font-size:12px; line-height:13px=
+;"><a target=3D"_blank" style=3D"text-decoration:none; color:#666666;" href=
+=3D"http://yipit.com/emailer/deal/236830928/">City Tours</a></font></td></t=
+r><tr><td width=3D"77" height=3D"15" style=3D"font-size:0; line-height:0;">=
+<img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=
+=3D"1" height=3D"15" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr=
+><td valign=3D"top" width=3D"77" align=3D"center" style=3D"font-size:0; lin=
+e-height:0; text-align:center;"><a target=3D"_blank" href=3D"http://yipit.c=
+om/emailer/deal/236830928/"><img src=3D"http://d22nv2k05ynu7x.cloudfront.ne=
+t/groupon.jpg" width=3D"50" vspace=3D"0" hspace=3D"0" border=3D"0"></a></td=
+></tr></table></td></tr></table></td></tr><tr><td width=3D"580" height=3D"2=
+6" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.=
+cloudfront.net/img/email/none.gif" width=3D"1" height=3D"26" vspace=3D"0" h=
+space=3D"0" align=3D"left"></td></tr><tr><td width=3D"580"><table width=3D"=
+580" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"150"=
+ valign=3D"top"><table width=3D"150" cellpadding=3D"0" cellspacing=3D"0" bo=
+rder=3D"0"><tr><td width=3D"150" height=3D"1" bgcolor=3D"#e5e5e8" colspan=
+=3D"3" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05yn=
+u7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"1" vspace=3D"0=
+" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"1" height=3D"1" bg=
+color=3D"#e5e5e8" style=3D"font-size:0; line-height:0;"><img src=3D"http://=
+d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"1" =
+vspace=3D"0" hspace=3D"0" align=3D"left"></td><td width=3D"148" valign=3D"t=
+op"><table width=3D"148" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><=
+tr><td width=3D"148" height=3D"3" colspan=3D"3" style=3D"font-size:0; line-=
+height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.=
+gif" width=3D"1" height=3D"3" vspace=3D"0" hspace=3D"0" align=3D"left"></td=
+></tr><tr><td width=3D"3" height=3D"1" style=3D"font-size:0; line-height:0;=
+"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" widt=
+h=3D"3" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td><td widt=
+h=3D"142" valign=3D"top" valign=3D"top"><a target=3D"_blank" href=3D"http:/=
+/yipit.com/emailer/deal/236830929/"><img src=3D"http://d22nv2k05ynu7x.cloud=
+front.net/deal_images/deal/spanish-language-lessons-at-lazos-de-amistad-two=
+-options-available-1313645415_email_thumbnail.jpg" width=3D"142" vspace=3D"=
+0" hspace=3D"0" align=3D"left" border=3D"0"></a></td><td width=3D"3" height=
+=3D"1" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05yn=
+u7x.cloudfront.net/img/email/none.gif" width=3D"3" height=3D"1" vspace=3D"0=
+" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"148" height=3D"3" =
+colspan=3D"3" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22n=
+v2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"3" vspa=
+ce=3D"0" hspace=3D"0" align=3D"left"></td></tr></table></td><td width=3D"1"=
+ height=3D"1" bgcolor=3D"#e5e5e8" style=3D"font-size:0; line-height:0;"><im=
+g src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"=
+1" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td =
+width=3D"150" height=3D"1" bgcolor=3D"#e5e5e8" colspan=3D"3" style=3D"font-=
+size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/im=
+g/email/none.gif" width=3D"1" height=3D"1" vspace=3D"0" hspace=3D"0" align=
+=3D"left"></td></tr></table></td><td width=3D"20" style=3D"font-size:0; lin=
+e-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/non=
+e.gif" width=3D"20" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"><=
+/td><td width=3D"148" valign=3D"top"><table width=3D"148" cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0"><tr><td width=3D"148" height=3D"5" style=3D=
+"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.=
+net/img/email/none.gif" width=3D"1" height=3D"5" vspace=3D"0" hspace=3D"0" =
+align=3D"left"></td></tr><tr><td><font size=3D"2" color=3D"#478fb3" face=3D=
+"'Helvetica Neue', Helvetica, Arial, sans-serif" style=3D"font-size:14px; l=
+ine-height:17px;"><font color=3D"#444444"></font><a target=3D"_blank" style=
+=3D"color:#478fb3; font-weight:bold;text-decoration:none;" href=3D"http://y=
+ipit.com/emailer/deal/236830929/">46% off Eight-Week Spanish-Language Cours=
+e or One Intensive Spanish-Language Workshop</a></font></td></tr><tr><td><f=
+ont size=3D"1" color=3D"#999999" face=3D"Verdana, Arial, Helvetica, sans-se=
+rif" style=3D"font-size:11px; line-height:14px;">Lazos de Amistad</font></t=
+d></tr><tr><td><font size=3D"1" color=3D"#999999" face=3D"Verdana, Arial, H=
+elvetica, sans-serif" style=3D"font-size:11px; line-height:14px;">1701 Penn=
+sylvania Ave NW - Washington D.C.</font></td></tr><tr><td width=3D"148" hei=
+ght=3D"13" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k=
+05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"13" vspace=
+=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"148"><table c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td valign=3D"top"><fon=
+t size=3D"1" face=3D"Verdana, Arial, Helvetica, sans-serif" color=3D"#99999=
+9" style=3D"font-size:11px; line-height:12px;">Share:</font></td><td width=
+=3D"7" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05yn=
+u7x.cloudfront.net/img/email/none.gif" width=3D"7" height=3D"1" vspace=3D"0=
+" hspace=3D"0" align=3D"left"></td><td valign=3D"top" width=3D"16" style=3D=
+"font-size:0; line-height:0;"><a target=3D"_blank" href=3D"https://www.face=
+book.com/sharer.php?u=3Dhttp%3A//yipit.co/nrXMQP"><img src=3D"http://d22nv2=
+k05ynu7x.cloudfront.net/img/email/ico-facebook.gif" width=3D"16" height=3D"=
+16" vspace=3D"0" hspace=3D"0" align=3D"left" border=3D"0"></a></td><td widt=
+h=3D"10" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05=
+ynu7x.cloudfront.net/img/email/none.gif" width=3D"10" height=3D"1" vspace=
+=3D"0" hspace=3D"0" align=3D"left"></td><td valign=3D"top" width=3D"16" sty=
+le=3D"font-size:0; line-height:0;"><a target=3D"_blank" href=3D"http://twit=
+ter.com/?status=3DRT%20%40YipitDC%3A%2046%25%20off%20Eight-Week%20Spanish-L=
+anguage%20Course%20or%20One%20Intensive%20Spanish-La...%3B%2072%20people%20=
+purchased%3B%202%20days%20left%3A%20http%3A//yipit.co/nrXMQP"><img src=3D"h=
+ttp://d22nv2k05ynu7x.cloudfront.net/img/email/ico-twitter.gif" width=3D"16"=
+ height=3D"16" vspace=3D"0" hspace=3D"0" align=3D"left" border=3D"0"></a></=
+td><td width=3D"10" style=3D"font-size:0; line-height:0;"><img src=3D"http:=
+//d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"10" height=3D"=
+1" vspace=3D"0" hspace=3D"0" align=3D"left"></td><td valign=3D"top" width=
+=3D"16" style=3D"font-size:0; line-height:0;"><a target=3D"_blank" href=3D"=
+mailto:?subject=3DA%20great%20Yipit%20Deal%20for%20you!&body=3DHere%20is%20=
+a%20Yipit%20Deal%20I%20thought%20you%20would%20like.%20Yipit.com%20aggregat=
+es%20and%20recommends%20the%20best%20daily%20deals%20in%20your%20city.%0D%0=
+A%0D%0ACheck%20out%20the%20deal%20I%20wanted%20to%20share%20with%20you%20he=
+re:%0D%0Ahttp://yipit.com/emailer/deal/236830929/"><img src=3D"http://d22nv=
+2k05ynu7x.cloudfront.net/img/email/ico-mail.png" width=3D"16" height=3D"16"=
+ vspace=3D"0" hspace=3D"0" align=3D"left" border=3D"0"></a></td></tr></tabl=
+e></td></tr></table></td><td width=3D"7" style=3D"font-size:0; line-height:=
+0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" wi=
+dth=3D"7" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td><td wi=
+dth=3D"160" valign=3D"top"><table width=3D"160" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0"><tr><td width=3D"160" height=3D"1" bgcolor=3D"#f3f3f3=
+" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.c=
+loudfront.net/img/email/none.gif" width=3D"1" height=3D"1" vspace=3D"0" hsp=
+ace=3D"0" align=3D"left"></td></tr><tr><td width=3D"160" height=3D"6" style=
+=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfro=
+nt.net/img/email/none.gif" width=3D"1" height=3D"6" vspace=3D"0" hspace=3D"=
+0" align=3D"left"></td></tr><tr><td width=3D"160" align=3D"center" style=3D=
+"text-align:center;"><font size=3D"1" face=3D"Verdana, Arial, Helvetica, sa=
+ns-serif" color=3D"#669900" style=3D"font-size:12px; line-height:14px;"><st=
+rong><a target=3D"_blank" style=3D"color:#669900; text-decoration:none;" hr=
+ef=3D"http://yipit.com/emailer/deal/236830929/">$35 (46% off)</a></strong><=
+/font></td></tr><tr><td width=3D"160" height=3D"8" style=3D"font-size:0; li=
+ne-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/no=
+ne.gif" width=3D"1" height=3D"8" vspace=3D"0" hspace=3D"0" align=3D"left"><=
+/td></tr><tr><td width=3D"160" height=3D"1" bgcolor=3D"#f3f3f3" style=3D"fo=
+nt-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net=
+/img/email/none.gif" width=3D"1" height=3D"1" vspace=3D"0" hspace=3D"0" ali=
+gn=3D"left"></td></tr><tr><td width=3D"160" height=3D"7" style=3D"font-size=
+:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/em=
+ail/none.gif" width=3D"1" height=3D"7" vspace=3D"0" hspace=3D"0" align=3D"l=
+eft"></td></tr><tr><td width=3D"160" align=3D"center" style=3D"text-align:c=
+enter;"><font size=3D"1" face=3D"Verdana, Arial, Helvetica, sans-serif" col=
+or=3D"#b04539" style=3D"font-size:12px; line-height:14px;"><a target=3D"_bl=
+ank" style=3D"color:#b04539; text-decoration:none;" href=3D"http://yipit.co=
+m/emailer/deal/236830929/">2 days left to buy</a></font></td></tr><tr><td w=
+idth=3D"160" height=3D"8" style=3D"font-size:0; line-height:0;"><img src=3D=
+"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" heigh=
+t=3D"8" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D=
+"160" height=3D"1" bgcolor=3D"#f3f3f3" style=3D"font-size:0; line-height:0;=
+"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" widt=
+h=3D"1" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr=
+><td width=3D"160" height=3D"7" style=3D"font-size:0; line-height:0;"><img =
+src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1"=
+ height=3D"7" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td wi=
+dth=3D"160" align=3D"center" style=3D"text-align:center;"><font size=3D"1" =
+face=3D"Verdana, Arial, Helvetica, sans-serif" color=3D"#333333" style=3D"f=
+ont-size:12px; line-height:14px;"><a target=3D"_blank" style=3D"color:#3333=
+33; text-decoration:none;333333" href=3D"http://yipit.com/emailer/deal/2368=
+30929/">72 purchased</a></font></td></tr><tr><td width=3D"160" height=3D"8"=
+ style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cl=
+oudfront.net/img/email/none.gif" width=3D"1" height=3D"8" vspace=3D"0" hspa=
+ce=3D"0" align=3D"left"></td></tr><tr><td width=3D"160" height=3D"1" bgcolo=
+r=3D"#f3f3f3" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22n=
+v2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"1" vspa=
+ce=3D"0" hspace=3D"0" align=3D"left"></td></tr></table></td><td width=3D"18=
+" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.c=
+loudfront.net/img/email/none.gif" width=3D"18" height=3D"1" vspace=3D"0" hs=
+pace=3D"0" align=3D"left"></td><td width=3D"77" valign=3D"top"><table width=
+=3D"77" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"7=
+7" height=3D"15" style=3D"font-size:0; line-height:0;"><img src=3D"http://d=
+22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"15" =
+vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td valign=3D"top" w=
+idth=3D"77" align=3D"center" style=3D"text-align:center;"><font size=3D"1" =
+face=3D"Verdana, Arial, Helvetica, sans-serif" color=3D"#666666" style=3D"f=
+ont-size:12px; line-height:13px;"><a target=3D"_blank" style=3D"text-decora=
+tion:none; color:#666666;" href=3D"http://yipit.com/emailer/deal/236830929/=
+">Life Skills Classes</a></font></td></tr><tr><td width=3D"77" height=3D"15=
+" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.c=
+loudfront.net/img/email/none.gif" width=3D"1" height=3D"15" vspace=3D"0" hs=
+pace=3D"0" align=3D"left"></td></tr><tr><td valign=3D"top" width=3D"77" ali=
+gn=3D"center" style=3D"font-size:0; line-height:0; text-align:center;"><a t=
+arget=3D"_blank" href=3D"http://yipit.com/emailer/deal/236830929/"><img src=
+=3D"http://d22nv2k05ynu7x.cloudfront.net/groupon.jpg" width=3D"50" vspace=
+=3D"0" hspace=3D"0" border=3D"0"></a></td></tr></table></td></tr></table></=
+td></tr><tr><td width=3D"580" height=3D"26" style=3D"font-size:0; line-heig=
+ht:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif"=
+ width=3D"1" height=3D"26" vspace=3D"0" hspace=3D"0" align=3D"left"></td></=
+tr><tr><td width=3D"580"><table width=3D"580" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0"><tr><td width=3D"150" valign=3D"top"><table width=3D"15=
+0" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"150" h=
+eight=3D"1" bgcolor=3D"#e5e5e8" colspan=3D"3" style=3D"font-size:0; line-he=
+ight:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gi=
+f" width=3D"1" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td><=
+/tr><tr><td width=3D"1" height=3D"1" bgcolor=3D"#e5e5e8" style=3D"font-size=
+:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/em=
+ail/none.gif" width=3D"1" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"l=
+eft"></td><td width=3D"148" valign=3D"top"><table width=3D"148" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"148" height=3D"3" co=
+lspan=3D"3" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2=
+k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"3" vspace=
+=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"3" height=3D"=
+1" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.=
+cloudfront.net/img/email/none.gif" width=3D"3" height=3D"1" vspace=3D"0" hs=
+pace=3D"0" align=3D"left"></td><td width=3D"142" valign=3D"top" valign=3D"t=
+op"><a target=3D"_blank" href=3D"http://yipit.com/emailer/deal/236830932/">=
+<img src=3D"http://d22nv2k05ynu7x.cloudfront.net/deal_images/deal/48-for-pr=
+emium-ticket-to-trouble-in-mind-at-arena-stage-1313555358_email_thumbnail.j=
+pg" width=3D"142" vspace=3D"0" hspace=3D"0" align=3D"left" border=3D"0"></a=
+></td><td width=3D"3" height=3D"1" style=3D"font-size:0; line-height:0;"><i=
+mg src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D=
+"3" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td=
+ width=3D"148" height=3D"3" colspan=3D"3" style=3D"font-size:0; line-height=
+:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" w=
+idth=3D"1" height=3D"3" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr>=
+</table></td><td width=3D"1" height=3D"1" bgcolor=3D"#e5e5e8" style=3D"font=
+-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/i=
+mg/email/none.gif" width=3D"1" height=3D"1" vspace=3D"0" hspace=3D"0" align=
+=3D"left"></td></tr><tr><td width=3D"150" height=3D"1" bgcolor=3D"#e5e5e8" =
+colspan=3D"3" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22n=
+v2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"1" vspa=
+ce=3D"0" hspace=3D"0" align=3D"left"></td></tr></table></td><td width=3D"20=
+" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.c=
+loudfront.net/img/email/none.gif" width=3D"20" height=3D"1" vspace=3D"0" hs=
+pace=3D"0" align=3D"left"></td><td width=3D"148" valign=3D"top"><table widt=
+h=3D"148" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D=
+"148" height=3D"5" style=3D"font-size:0; line-height:0;"><img src=3D"http:/=
+/d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"5"=
+ vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td><font size=3D"2=
+" color=3D"#478fb3" face=3D"'Helvetica Neue', Helvetica, Arial, sans-serif"=
+ style=3D"font-size:14px; line-height:17px;"><font color=3D"#444444"></font=
+><a target=3D"_blank" style=3D"color:#478fb3; font-weight:bold;text-decorat=
+ion:none;" href=3D"http://yipit.com/emailer/deal/236830932/">47% off Premiu=
+m Ticket to Trouble in Mind</a></font></td></tr><tr><td><font size=3D"1" co=
+lor=3D"#999999" face=3D"Verdana, Arial, Helvetica, sans-serif" style=3D"fon=
+t-size:11px; line-height:14px;">Arena Stage </font></td></tr><tr><td><font =
+size=3D"1" color=3D"#999999" face=3D"Verdana, Arial, Helvetica, sans-serif"=
+ style=3D"font-size:11px; line-height:14px;">1101 6th St SW - Washington D.=
+C.</font></td></tr><tr><td width=3D"148" height=3D"13" style=3D"font-size:0=
+; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/emai=
+l/none.gif" width=3D"1" height=3D"13" vspace=3D"0" hspace=3D"0" align=3D"le=
+ft"></td></tr><tr><td width=3D"148"><table cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0"><tr><td valign=3D"top"><font size=3D"1" face=3D"Verdana, A=
+rial, Helvetica, sans-serif" color=3D"#999999" style=3D"font-size:11px; lin=
+e-height:12px;">Share:</font></td><td width=3D"7" style=3D"font-size:0; lin=
+e-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/non=
+e.gif" width=3D"7" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></=
+td><td valign=3D"top" width=3D"16" style=3D"font-size:0; line-height:0;"><a=
+ target=3D"_blank" href=3D"https://www.facebook.com/sharer.php?u=3Dhttp%3A/=
+/yipit.co/qnvRuN"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/emai=
+l/ico-facebook.gif" width=3D"16" height=3D"16" vspace=3D"0" hspace=3D"0" al=
+ign=3D"left" border=3D"0"></a></td><td width=3D"10" style=3D"font-size:0; l=
+ine-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/n=
+one.gif" width=3D"10" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"=
+></td><td valign=3D"top" width=3D"16" style=3D"font-size:0; line-height:0;"=
+><a target=3D"_blank" href=3D"http://twitter.com/?status=3DRT%20%40YipitDC%=
+3A%2047%25%20off%20Premium%20Ticket%20to%20Trouble%20in%20Mind%3B%20170%20p=
+eople%20purchased%3B%202%20days%20left%3A%20http%3A//yipit.co/qnvRuN"><img =
+src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/ico-twitter.gif" widt=
+h=3D"16" height=3D"16" vspace=3D"0" hspace=3D"0" align=3D"left" border=3D"0=
+"></a></td><td width=3D"10" style=3D"font-size:0; line-height:0;"><img src=
+=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"10" h=
+eight=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td><td valign=3D"top=
+" width=3D"16" style=3D"font-size:0; line-height:0;"><a target=3D"_blank" h=
+ref=3D"mailto:?subject=3DA%20great%20Yipit%20Deal%20for%20you!&body=3DHere%=
+20is%20a%20Yipit%20Deal%20I%20thought%20you%20would%20like.%20Yipit.com%20a=
+ggregates%20and%20recommends%20the%20best%20daily%20deals%20in%20your%20cit=
+y.%0D%0A%0D%0ACheck%20out%20the%20deal%20I%20wanted%20to%20share%20with%20y=
+ou%20here:%0D%0Ahttp://yipit.com/emailer/deal/236830932/"><img src=3D"http:=
+//d22nv2k05ynu7x.cloudfront.net/img/email/ico-mail.png" width=3D"16" height=
+=3D"16" vspace=3D"0" hspace=3D"0" align=3D"left" border=3D"0"></a></td></tr=
+></table></td></tr></table></td><td width=3D"7" style=3D"font-size:0; line-=
+height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.=
+gif" width=3D"7" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td=
+><td width=3D"160" valign=3D"top"><table width=3D"160" cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0"><tr><td width=3D"160" height=3D"1" bgcolor=3D"=
+#f3f3f3" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05=
+ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"1" vspace=3D=
+"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"160" height=3D"6=
+" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.c=
+loudfront.net/img/email/none.gif" width=3D"1" height=3D"6" vspace=3D"0" hsp=
+ace=3D"0" align=3D"left"></td></tr><tr><td width=3D"160" align=3D"center" s=
+tyle=3D"text-align:center;"><font size=3D"1" face=3D"Verdana, Arial, Helvet=
+ica, sans-serif" color=3D"#669900" style=3D"font-size:12px; line-height:14p=
+x;"><strong><a target=3D"_blank" style=3D"color:#669900; text-decoration:no=
+ne;" href=3D"http://yipit.com/emailer/deal/236830932/">$48 (47% off)</a></s=
+trong></font></td></tr><tr><td width=3D"160" height=3D"8" style=3D"font-siz=
+e:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/e=
+mail/none.gif" width=3D"1" height=3D"8" vspace=3D"0" hspace=3D"0" align=3D"=
+left"></td></tr><tr><td width=3D"160" height=3D"1" bgcolor=3D"#f3f3f3" styl=
+e=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfr=
+ont.net/img/email/none.gif" width=3D"1" height=3D"1" vspace=3D"0" hspace=3D=
+"0" align=3D"left"></td></tr><tr><td width=3D"160" height=3D"7" style=3D"fo=
+nt-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net=
+/img/email/none.gif" width=3D"1" height=3D"7" vspace=3D"0" hspace=3D"0" ali=
+gn=3D"left"></td></tr><tr><td width=3D"160" align=3D"center" style=3D"text-=
+align:center;"><font size=3D"1" face=3D"Verdana, Arial, Helvetica, sans-ser=
+if" color=3D"#b04539" style=3D"font-size:12px; line-height:14px;"><a target=
+=3D"_blank" style=3D"color:#b04539; text-decoration:none;" href=3D"http://y=
+ipit.com/emailer/deal/236830932/">2 days left to buy</a></font></td></tr><t=
+r><td width=3D"160" height=3D"8" style=3D"font-size:0; line-height:0;"><img=
+ src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1=
+" height=3D"8" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td w=
+idth=3D"160" height=3D"1" bgcolor=3D"#f3f3f3" style=3D"font-size:0; line-he=
+ight:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gi=
+f" width=3D"1" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td><=
+/tr><tr><td width=3D"160" height=3D"7" style=3D"font-size:0; line-height:0;=
+"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" widt=
+h=3D"1" height=3D"7" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr=
+><td width=3D"160" align=3D"center" style=3D"text-align:center;"><font size=
+=3D"1" face=3D"Verdana, Arial, Helvetica, sans-serif" color=3D"#333333" sty=
+le=3D"font-size:12px; line-height:14px;"><a target=3D"_blank" style=3D"colo=
+r:#333333; text-decoration:none;333333" href=3D"http://yipit.com/emailer/de=
+al/236830932/">170 purchased</a></font></td></tr><tr><td width=3D"160" heig=
+ht=3D"8" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05=
+ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D"8" vspace=3D=
+"0" hspace=3D"0" align=3D"left"></td></tr><tr><td width=3D"160" height=3D"1=
+" bgcolor=3D"#f3f3f3" style=3D"font-size:0; line-height:0;"><img src=3D"htt=
+p://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" height=3D=
+"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr></table></td><td wid=
+th=3D"18" style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k0=
+5ynu7x.cloudfront.net/img/email/none.gif" width=3D"18" height=3D"1" vspace=
+=3D"0" hspace=3D"0" align=3D"left"></td><td width=3D"77" valign=3D"top"><ta=
+ble width=3D"77" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td w=
+idth=3D"77" height=3D"15" style=3D"font-size:0; line-height:0;"><img src=3D=
+"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=3D"1" heigh=
+t=3D"15" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr><tr><td valign=
+=3D"top" width=3D"77" align=3D"center" style=3D"text-align:center;"><font s=
+ize=3D"1" face=3D"Verdana, Arial, Helvetica, sans-serif" color=3D"#666666" =
+style=3D"font-size:12px; line-height:13px;"><a target=3D"_blank" style=3D"t=
+ext-decoration:none; color:#666666;" href=3D"http://yipit.com/emailer/deal/=
+236830932/">Theater</a></font></td></tr><tr><td width=3D"77" height=3D"15" =
+style=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.clo=
+udfront.net/img/email/none.gif" width=3D"1" height=3D"15" vspace=3D"0" hspa=
+ce=3D"0" align=3D"left"></td></tr><tr><td valign=3D"top" width=3D"77" align=
+=3D"center" style=3D"font-size:0; line-height:0; text-align:center;"><a tar=
+get=3D"_blank" href=3D"http://yipit.com/emailer/deal/236830932/"><img src=
+=3D"http://d22nv2k05ynu7x.cloudfront.net/source/the-capitol-dish.jpg" width=
+=3D"50" vspace=3D"0" hspace=3D"0" border=3D"0"></a></td></tr></table></td><=
+/tr></table></td></tr><tr><td width=3D"580" height=3D"26" style=3D"font-siz=
+e:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/e=
+mail/none.gif" width=3D"1" height=3D"26" vspace=3D"0" hspace=3D"0" align=3D=
+"left"></td></tr><tr><td width=3D"580" align=3D"center" ><font size=3D"2" c=
+olor=3D"#478fb3" face=3D"'Helvetica Neue', Helvetica, Arial, sans-serif" st=
+yle=3D"font-size:14px; line-height:17px; letter-spacing:-1px;"><a target=3D=
+"_blank" style=3D"color:#478fb3; font-weight:bold;text-decoration:none;" hr=
+ef=3D"http://yipit.com/washington-dc/?eid=3D386acdb37ae049ba864ca666b778ca4=
+8">See more: Restaurants, Theater, Life Skills Classes, City Tours</a></fon=
+t></td></tr><tr><td width=3D"580" height=3D"26" style=3D"font-size:0; line-=
+height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.=
+gif" width=3D"1" height=3D"26" vspace=3D"0" hspace=3D"0" align=3D"left"></t=
+d></tr></table></td><td width=3D"20" style=3D"font-size:0; line-height:0;">=
+<img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" width=
+=3D"20" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr></t=
+able></td></tr></table></td><td width=3D"1" bgcolor=3D"#b5dfef" style=3D"fo=
+nt-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net=
+/img/email/none.gif" width=3D"1" height=3D"1" vspace=3D"0" hspace=3D"0" ali=
+gn=3D"left"></td><td width=3D"1" bgcolor=3D"#c1e8f6" style=3D"font-size:0; =
+line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/=
+none.gif" width=3D"1" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"=
+></td><td width=3D"1" bgcolor=3D"#caeefb" style=3D"font-size:0; line-height=
+:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/none.gif" w=
+idth=3D"1" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"left"></td></tr>=
+</table></td></tr><tr><td width=3D"626" height=3D"3" style=3D"font-size:0; =
+line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfront.net/img/email/=
+shadow-b.gif" width=3D"626" height=3D"3" vspace=3D"0" hspace=3D"0" align=3D=
+"left"></td></tr></table></td></tr><tr><td width=3D"626" height=3D"5" style=
+=3D"font-size:0; line-height:0;"><img src=3D"http://d22nv2k05ynu7x.cloudfro=
+nt.net/img/email/none.gif" width=3D"626" height=3D"5" vspace=3D"0" hspace=
+=3D"0" align=3D"left"></td></tr><tr><td width=3D"626" valign=3D"top" align=
+=3D"left"><table width=3D"626" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>date-sent</key>
+	<real>1313771226</real>
+	<key>flags</key>
+	<integer>8590195713</integer>
+	<key>original-mailbox</key>
+	<string>imap://ericgorr@imap.gmail.com/%5BGmail%5D/All%20Mail</string>
+	<key>remote-id</key>
+	<string>102713</string>
+	<key>subject</key>
+	<string>50% off at Bistro Cacao</string>
+</dict>
+</plist>

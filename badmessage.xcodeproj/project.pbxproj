@@ -13,7 +13,47 @@
 		B75E3D33177386F1004D3D7F /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = B75E3D31177386F1004D3D7F /* Credits.rtf */; };
 		B75E3D36177386F1004D3D7F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B75E3D35177386F1004D3D7F /* AppDelegate.m */; };
 		B75E3D39177386F1004D3D7F /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = B75E3D37177386F1004D3D7F /* MainMenu.xib */; };
+		B762405A1773889F00127E9C /* 29193.emlx in Resources */ = {isa = PBXBuildFile; fileRef = B76240591773889F00127E9C /* 29193.emlx */; };
+		B762405B1773894100127E9C /* MailCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B75E3D501773885A004D3D7F /* MailCore.framework */; };
 /* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		B75E3D471773885A004D3D7F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B75E3D3F1773885A004D3D7F /* mailcore2.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C64EA537169E772200778456;
+			remoteInfo = "static mailcore2 osx";
+		};
+		B75E3D491773885A004D3D7F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B75E3D3F1773885A004D3D7F /* mailcore2.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C6BA2C191705F4E6003F0E9E;
+			remoteInfo = "static mailcore2 ios";
+		};
+		B75E3D4B1773885A004D3D7F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B75E3D3F1773885A004D3D7F /* mailcore2.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C64EA78C169F259200778456;
+			remoteInfo = tests;
+		};
+		B75E3D4D1773885A004D3D7F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B75E3D3F1773885A004D3D7F /* mailcore2.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C6A81B911706840C00882C15;
+			remoteInfo = "test-ios";
+		};
+		B75E3D4F1773885A004D3D7F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B75E3D3F1773885A004D3D7F /* mailcore2.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C6BD288D170BD71100A91AC1;
+			remoteInfo = "mailcore osx";
+		};
+/* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		B75E3D1F177386F1004D3D7F /* badmessage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = badmessage.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -29,6 +69,8 @@
 		B75E3D34177386F1004D3D7F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		B75E3D35177386F1004D3D7F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		B75E3D38177386F1004D3D7F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		B75E3D3F1773885A004D3D7F /* mailcore2.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = mailcore2.xcodeproj; path = "deps/mailcore/build-mac/mailcore2.xcodeproj"; sourceTree = SOURCE_ROOT; };
+		B76240591773889F00127E9C /* 29193.emlx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 29193.emlx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,6 +78,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B762405B1773894100127E9C /* MailCore.framework in Frameworks */,
 				B75E3D23177386F1004D3D7F /* Cocoa.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -85,6 +128,7 @@
 				B75E3D34177386F1004D3D7F /* AppDelegate.h */,
 				B75E3D35177386F1004D3D7F /* AppDelegate.m */,
 				B75E3D37177386F1004D3D7F /* MainMenu.xib */,
+				B75E3D3F1773885A004D3D7F /* mailcore2.xcodeproj */,
 				B75E3D29177386F1004D3D7F /* Supporting Files */,
 			);
 			path = badmessage;
@@ -93,6 +137,7 @@
 		B75E3D29177386F1004D3D7F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				B76240591773889F00127E9C /* 29193.emlx */,
 				B75E3D2A177386F1004D3D7F /* badmessage-Info.plist */,
 				B75E3D2B177386F1004D3D7F /* InfoPlist.strings */,
 				B75E3D2E177386F1004D3D7F /* main.m */,
@@ -100,6 +145,18 @@
 				B75E3D31177386F1004D3D7F /* Credits.rtf */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B75E3D401773885A004D3D7F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B75E3D481773885A004D3D7F /* libMailCore.a */,
+				B75E3D4A1773885A004D3D7F /* libMailCore-ios.a */,
+				B75E3D4C1773885A004D3D7F /* tests */,
+				B75E3D4E1773885A004D3D7F /* test-ios.app */,
+				B75E3D501773885A004D3D7F /* MailCore.framework */,
+			);
+			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -141,12 +198,56 @@
 			mainGroup = B75E3D16177386F1004D3D7F;
 			productRefGroup = B75E3D20177386F1004D3D7F /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = B75E3D401773885A004D3D7F /* Products */;
+					ProjectRef = B75E3D3F1773885A004D3D7F /* mailcore2.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				B75E3D1E177386F1004D3D7F /* badmessage */,
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		B75E3D481773885A004D3D7F /* libMailCore.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libMailCore.a;
+			remoteRef = B75E3D471773885A004D3D7F /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B75E3D4A1773885A004D3D7F /* libMailCore-ios.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libMailCore-ios.a";
+			remoteRef = B75E3D491773885A004D3D7F /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B75E3D4C1773885A004D3D7F /* tests */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = tests;
+			remoteRef = B75E3D4B1773885A004D3D7F /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B75E3D4E1773885A004D3D7F /* test-ios.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = "test-ios.app";
+			remoteRef = B75E3D4D1773885A004D3D7F /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B75E3D501773885A004D3D7F /* MailCore.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = MailCore.framework;
+			remoteRef = B75E3D4F1773885A004D3D7F /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		B75E3D1D177386F1004D3D7F /* Resources */ = {
@@ -156,6 +257,7 @@
 				B75E3D2D177386F1004D3D7F /* InfoPlist.strings in Resources */,
 				B75E3D33177386F1004D3D7F /* Credits.rtf in Resources */,
 				B75E3D39177386F1004D3D7F /* MainMenu.xib in Resources */,
+				B762405A1773889F00127E9C /* 29193.emlx in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -228,7 +330,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = macosx;
 			};
@@ -255,7 +357,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
 				SDKROOT = macosx;
 			};
 			name = Release;
@@ -267,6 +369,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "badmessage/badmessage-Prefix.pch";
 				INFOPLIST_FILE = "badmessage/badmessage-Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -279,6 +382,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "badmessage/badmessage-Prefix.pch";
 				INFOPLIST_FILE = "badmessage/badmessage-Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -303,6 +407,7 @@
 				B75E3D3E177386F1004D3D7F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
