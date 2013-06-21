@@ -15,6 +15,7 @@
 		B75E3D39177386F1004D3D7F /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = B75E3D37177386F1004D3D7F /* MainMenu.xib */; };
 		B762405A1773889F00127E9C /* 29193.emlx in Resources */ = {isa = PBXBuildFile; fileRef = B76240591773889F00127E9C /* 29193.emlx */; };
 		B762405B1773894100127E9C /* MailCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B75E3D501773885A004D3D7F /* MailCore.framework */; };
+		B77882791774AEA50035C30A /* 29193.txt in Resources */ = {isa = PBXBuildFile; fileRef = B77882781774AEA50035C30A /* 29193.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -71,6 +72,7 @@
 		B75E3D38177386F1004D3D7F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		B75E3D3F1773885A004D3D7F /* mailcore2.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = mailcore2.xcodeproj; path = "deps/mailcore/build-mac/mailcore2.xcodeproj"; sourceTree = SOURCE_ROOT; };
 		B76240591773889F00127E9C /* 29193.emlx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 29193.emlx; sourceTree = "<group>"; };
+		B77882781774AEA50035C30A /* 29193.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 29193.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -138,6 +140,7 @@
 			isa = PBXGroup;
 			children = (
 				B76240591773889F00127E9C /* 29193.emlx */,
+				B77882781774AEA50035C30A /* 29193.txt */,
 				B75E3D2A177386F1004D3D7F /* badmessage-Info.plist */,
 				B75E3D2B177386F1004D3D7F /* InfoPlist.strings */,
 				B75E3D2E177386F1004D3D7F /* main.m */,
@@ -258,6 +261,7 @@
 				B75E3D33177386F1004D3D7F /* Credits.rtf in Resources */,
 				B75E3D39177386F1004D3D7F /* MainMenu.xib in Resources */,
 				B762405A1773889F00127E9C /* 29193.emlx in Resources */,
+				B77882791774AEA50035C30A /* 29193.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
